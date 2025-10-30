@@ -1,0 +1,14 @@
+{
+  "type": "data-manifest",
+  "base": "WhoseBody sentences translation step3",
+  "totalRecords": 4383,
+  "chunkSize": 1000,
+  "totalChunks": 5,
+  "files": [
+    "WhoseBody sentences translation step3_data_part-001.json",
+    "WhoseBody sentences translation step3_data_part-002.json",
+    "WhoseBody sentences translation step3_data_part-003.json",
+    "WhoseBody sentences translation step3_data_part-004.json",
+    "WhoseBody sentences translation step3_data_part-005.json"
+  ]
+}
