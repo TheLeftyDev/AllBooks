@@ -1,0 +1,25 @@
+{
+  "type": "data-manifest",
+  "base": "Warandpeace",
+  "totalRecords": 30751,
+  "chunkSize": 2000,
+  "totalChunks": 16,
+  "files": [
+    "Warandpeace001.json",
+    "Warandpeace002.json",
+    "Warandpeace003.json",
+    "Warandpeace004.json",
+    "Warandpeace005.json",
+    "Warandpeace006.json",
+    "Warandpeace007.json",
+    "Warandpeace008.json",
+    "Warandpeace009.json",
+    "Warandpeace010.json",
+    "Warandpeace011.json",
+    "Warandpeace012.json",
+    "Warandpeace013.json",
+    "Warandpeace014.json",
+    "Warandpeace015.json",
+    "Warandpeace016.json"
+  ]
+}
