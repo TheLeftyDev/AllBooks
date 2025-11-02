@@ -1,7 +1,7 @@
 {
   "type": "data-manifest",
   "base": "WhoseBody",
-  "totalRecords": 4383,
+  "totalRecords": 4240,
   "chunkSize": 1000,
   "totalChunks": 5,
   "files": [
