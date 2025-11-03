@@ -1,0 +1,7204 @@
+{
+  "data": [
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Av."
+      },
+      "2TR": {
+        "t": "b1."
+      },
+      "2DE": {
+        "t": "BM."
+      },
+      "S": {
+        "t": "bE."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "- 5s AV Aw."
+      },
+      "2TR": {
+        "t": "—1y b2 b3."
+      },
+      "2DE": {
+        "t": "—X Bn m BN."
+      },
+      "S": {
+        "t": "—N bf 2 0 0B 7G."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“AW Ax AX,” D 0i 6 7, “1I 5S Ay AY Az L 3M 2A AZ b0 b1”."
+      },
+      "2TR": {
+        "t": "\"b4 b5 5P b6,\" 5 4 0D 3, \"1F, 5q b7 b8 b9 2 5Q 0M 5r ba 0 bA bb 0n.\""
+      },
+      "2DE": {
+        "t": "\"7O 2 Bo 0C BO“, f 1F e, \"D 28 29 H Bp m BP Bq BQ 6 0O 7p Br 4v 4V.“"
+      },
+      "S": {
+        "t": "“bF 0 1Q 2 bg 2 0 25 4x,” E G. 1G F, “1r s bG 5 bh bH 7h 26 0 4X 2 0 1R 7H bi bI.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“C 1j 2, 5t b2 9 5T 3n b3 3N” 0I 2b 5u."
+      },
+      "2TR": {
+        "t": "\"bB 10 bc i 5R 6 07 bC bd 34,\" o 5s bD."
+      },
+      "2DE": {
+        "t": "\"B 0u 2R, 3 7 4w BR Bs 0R 2a, 4 00 BS“, 4W 1."
+      },
+      "S": {
+        "t": "“1 0c 27 0C 6 9 k 0q 2S bj bJ 3 bk c 9,” 1 4y."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"j, Y, c b4 b5\" 7, 5U, b6 u 3o b7 0Y 3O."
+      },
+      "2TR": {
+        "t": "\"5S, be, bE bf,\" 5 bF, 5t bg bG 11 bh."
+      },
+      "2DE": {
+        "t": "\"Bt, BT, 1 Bu 0X C BU J“, f 5 Bv, 1Q 5 W 2A 16 BV Bw."
+      },
+      "S": {
+        "t": "“04, 28, 1 0H h l bK,” E b, c 5 3m, H b bl 0z A 29 w 0 bL."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“3p 2, b8 b9 0 ba bA 5v bb bB N e 0z bc 0j."
+      },
+      "2TR": {
+        "t": "\"bH 0e bi, bI 1g w bj bJ, bk bK bl 5T bL."
+      },
+      "2DE": {
+        "t": "\"0a BW Bx 0y 0Y, 0 BX D 2 By, 2b 4x 2 BY Bz BZ, 2s 7P c0 D.“"
+      },
+      "S": {
+        "t": "“N bm B 2a 0 bM, 4 T S 0 bn, 3M 0 4Y bN bo, 7i bO s 2A."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "bC 5V u bd bD be 5w p."
+      },
+      "2TR": {
+        "t": "bm E k 5u, 12 bM bn bN bo."
+      },
+      "2DE": {
+        "t": "4X 0j O o c1 c2 4 7q c3 c4."
+      },
+      "S": {
+        "t": "4z 6 P 7 0 bp bP 0t 3n 7I bq bQ."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0q 07 3, 0J U 08 bE, v, U 5W 2B 4, J 3P A k q 2c 5x 0A o 5X 3q 4, z bf bF U bg bG bh bH bi bI bj."
+      },
+      "2TR": {
+        "t": "h, 35 Q 2 bO u W 0 bp, u bP bq, b 0E A H K bQ br x D bR bs, 5U bS bt u 36 bT, 37 bu bU bv bV c."
+      },
+      "2DE": {
+        "t": "c5 a A 0J 4 c6 7Q, 01, 2 c7 7r, 0 0U c8 A I, N 6 4y, 3 b 1g 7R 7s 2B a, r k 4 c9 ca 2 cA m cb l 4 cB cc 4Y, 4 8 2 7S cC."
+      },
+      "S": {
+        "t": "br a 8 0e 0 bR bs, 00, 0 bS 7j, 4 0Q a 8 3N 3 2t i 6 0 1h 2T 3o 8 r, H 0 bt bT 2 0 bu 2 0 bU bv S 2 0 bV bw f bW 7 0 bx."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "bJ bk, bK bl, bL 5y - bm bM 0D 9 5Y bn 09."
+      },
+      "2TR": {
+        "t": "5v bw, 5V 38 5w, bW 5w... bx 39, bX by bY k 8 0N 0 0o 0f 0 bz bZ."
+      },
+      "2DE": {
+        "t": "cd, cD ce, cE cf – v c O, 2 c cF 7t, 1r d 0v 6 R cg cG ch."
+      },
+      "S": {
+        "t": "bX by, bY bz, bZ B0—3 0 P W 4Z 0 7J m V l 7k 06 S B1 2b."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "bN bo bO bp bP bq e 1 bQ br 5 bR 5z 0Q bs bS bt."
+      },
+      "2TR": {
+        "t": "B0 1Y B1 B2 B3 B4 g B5, E 5W B6 1z 0F B7 B8."
+      },
+      "2DE": {
+        "t": "7T c cH ci 2 cI 3Q cj 0M 7u 8 cJ 4 7U, 4 28 7v 7t."
+      },
+      "S": {
+        "t": "50 0 7K B2 2 0 B3 25 2u T B4 7 B5 B6 0 B7 f 1r 0T B8."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0b Z...” E, 5Z 60 V 9 b I bT bu bU bv 0k bV 61 bw bW."
+      },
+      "2TR": {
+        "t": "U 0O——” B9 Ba 2 7 6 f BA Bb 5x 0 BB Bc BC."
+      },
+      "2DE": {
+        "t": "17 1G –“ s 4z E c ck 0 cK 2S cl cL v c 7V 2 4Z, 6 H 5 18 r 2t 7w K."
+      },
+      "S": {
+        "t": "0M 0n——” U B9 A Ba 7 BA Bb 2 0 51 2 3O f b d 0N 1s o 0Z 3 7l."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "bx 07 6 1 S bX 4 2, by 0 c 8 bY B bz bZ B0 1J B1 B2 B3."
+      },
+      "2TR": {
+        "t": "Bd 5W 3 X 5X 11 BD 1 y A e Be 3a 5y BE Bf BF 13 Bg BG."
+      },
+      "2DE": {
+        "t": "cm H 7W, G 1 50, a e 2c 29 3r cM 1R, 0 1 K g W 7x 2C 0h 7X cn 0 a cN, N 4 51 co 8 2 cO cp E 0b 6 cP."
+      },
+      "S": {
+        "t": "2U 0 0d 2 f 1 52 F d L 0z I v 7L, 4 1, D A BB, d Bc C 7m 4 7M 3 BC 0 2v Bd 7 BD Be."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "B4 3Q 00 62 h 08 B5 B6 B7 B8 0 B9 2A w 63 Ba 3r 0Z U 3R BA 10 - 3, 0J 1 S 1k L Bb 64 65 BB o 0 66 2C A h 1K Bc BC 11 0r p."
+      },
+      "2TR": {
+        "t": "Bh 5Y O 0 BH, Bi W 5y BI 5z 1 Bj BJ Bk BK, Bl BL Bm u 5Z BM Bn. B 14 0g 60 I, BN 3A Bo 61 D 1 62 BO Bp 1G D 63 64 BP."
+      },
+      "2DE": {
+        "t": "1h 2T cq 7y 7Y K 0h 3R 7X 8 cQ cr 0 I 2d 2t cR c cs cS ct, c 1 6 cT cu – 9 1s, 2 d 3s 19 2u 2U cU, G 1 cv, 3 7Y 9 cV cw F e a 0 3 A q 0n a, 2 b 52 53 7z K."
+      },
+      "S": {
+        "t": "0i 0E BE, 7n 7N, d Bf C 7o BF 7m, 4 7O c Bg 0a BG 0 Bh BH 6 1 Bi 3 10—O 2B f 0e 3p BI v 2c 2V Y 1 0I 6 7N 8 5 7p 53 2 7P, 4 6 a 8 C 0o W d 3P 0I 0 54."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Bd 1l 0e BD 8 67 G 5 a A 12 Be, z BE 3s Bf 3 BF Bg BG Bh 0R 0 BH Bi BI Bj i BJ Bk BK 1L 3S 68 Bl A BL Bm 69."
+      },
+      "2TR": {
+        "t": "Bq BQ Br e BR 7 Bs BS, Y Bt 3b 2 BT, 13 Bu BU 3B Bv 1 1Z BV A Bw 3c i BW Bx BX 65 3C By a BY 66."
+      },
+      "2DE": {
+        "t": "cW cx cX a C r cy cY, k 5 7Z K, 0p 54 cz 2D cZ C0 1 55, 3 0z C1 c 0k 2 1S F C2 C3 0 0K 4 80 56 m C4 C5 C6 C7, 4 z 3S C8 b 3t C9 1H."
+      },
+      "S": {
+        "t": "3q 7L 2 Bj d h L o BJ H b d Bk, I 1 0q, R 55 0r C BK, 6 g Bl BL 0 0f 2 0 0j 2 Bm BM, 4 2C 0 7q 2d 2 0 Bn BN Bo, f o 56 BO 01 2w 07 7Q."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6a Q, 8 BM 0 Bn BN 2d Bo BO Bp K i 1m 1 6A 0s 4 0 5, 3t, BP 0 W Bq 0S m 1 1M BQ 9 U 3T Br t BR - 0r 0Z G, 3 Bs 0J Z BS Bt."
+      },
+      "2TR": {
+        "t": "3d e Bz 1 BZ c0 M Q c1 c2 c3 1 H 20, c4 15 c5 08 F 1h c6 3D 6 c7 0 l c8 67; 2 c9, F z 68 c, 0g 0O ca."
+      },
+      "2DE": {
+        "t": "81 Ca 0 CA Cb a 1i CB Cc CC Cd CD Ce, 0 5 CE t Cf CF, 2e Cg 82 0d d 18, V 83 0D V 84 6 85 – 9 CG, b, k 1 2c Ch T, 3s 1G CH S."
+      },
+      "S": {
+        "t": "2W Bp 4 BP Bq 8 3Q BQ, 3r, 3 1S 7 0 7r 2 7R Br, 4 b 7s i 7 0 2D BR 7S 3 0u T 57 58 2 0N, A 7t, 08 A 7T—5 Bs f, H 1 e 3p, s 0e 0n L 59."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E 0i 6 BT Bu L 6b BU Bv 0 u BV Bw 6B, 5 1n BW Bx BX By 0 2D 3u BY Bz 6c p, 3U BZ c0 B c1 c2 c3."
+      },
+      "2TR": {
+        "t": "4 0D 3, cA cb 1H 69 cB, 12 cc 21 21 cC C, cd cD 0 l ce cE cf, 0p 1H 3e 3E cF cg cG ch c, cH 22 0 ci cI 0n."
+      },
+      "2DE": {
+        "t": "57 Q. 1F e W Ci CI 7p K, Cj 5 d 8 0e 2A 1R 0 CJ Ck V 7q CK, G 3T 86 0Z 9 Cl CL 2 Cm CM S, 58 Cn F R CN Co, G u CO E 2 Cp 1a 4 CP Cq."
+      },
+      "S": {
+        "t": "G. 1G F 8 BS 0z 7 A 29 2x A Bt BT, 4 8 Bu A 0t 3n 7 5 BU 2X, Y 07 3R 8 3s z 5 Bv BV D 0 7u, 2e Bw z 5 BW Bx BX, H x By t BY R 0 Bz 2y c A BZ."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E 6C G c4 c5 1 c6 13, 6d c7 c8 c9 0 1 w L, 6D 6e 0 6E 1 00, 6f, ca 0 cA cb B 6F cB."
+      },
+      "2TR": {
+        "t": "cj cJ 6a ck 0 cK 0P, 6A 6b cl 6B 6c 23 1 0 3f I 6C cL, cm cM, 3F 6d, cn 6D 1 cN i O 0 k 6e co."
+      },
+      "2DE": {
+        "t": "2E d 4 1t 87, CQ 9 Cr CR 8 c 3u, 88 89 Cs 4 8a CS, 0 L 59 2U Ct 9 CT 0 8A 2T O, Cu, CU 0 E Cv, 8 c 5a."
+      },
+      "S": {
+        "t": "2E a 3S r 2Y 5 c0 c1 06 0 1t, c2 5a c3 Z 0 7U, 4 O c4 2V 5 c5 4 c6 0E P, 7v, c7, 4 c8, c9 06 0 11."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, cc cC 0K 0 14 6g cd 1N 3 cD ce 9 cE cf 6G o 1L cF."
+      },
+      "2TR": {
+        "t": "cO 1i 1 cp cP 3g, 2 cq cQ 8 0 cr cR cs 6E p."
+      },
+      "2DE": {
+        "t": "s 3U CV z l, 0 2f 2v Cw CW S 0b 8b, 3 v 0P Cx CX j Cy 8B a."
+      },
+      "S": {
+        "t": "U 1H w S 3 0 12 2 01, 4 3t 07 ca 2 3T b cA cb 6 v cB 8 cc I g cC cd."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“cg, T 6” 0I 3v."
+      },
+      "2TR": {
+        "t": "\"cS ct 4 3,\" o 6f."
+      },
+      "2DE": {
+        "t": "\"M 8c I CY, Q. e“, 5A 5."
+      },
+      "S": {
+        "t": "“cD ce, G. F,” b 5A."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“6h cG."
+      },
+      "2TR": {
+        "t": "\"cT cu."
+      },
+      "2DE": {
+        "t": "\"2V Cz I 0M CZ 2w.“"
+      },
+      "S": {
+        "t": "“09 cE cf i."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C w 6H ch cH."
+      },
+      "2TR": {
+        "t": "cU cv."
+      },
+      "2DE": {
+        "t": "B 0E 8C d0."
+      },
+      "S": {
+        "t": "1 0F 56 cF."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E 6, c 12 15 3V ci”."
+      },
+      "2TR": {
+        "t": "4 3, y cV 1I 24 cw.\""
+      },
+      "2DE": {
+        "t": "\"Q. e, 1 0E 2 8d 2W 3v 02.“"
+      },
+      "S": {
+        "t": "G. F, 1 0F 0 cg 2z 3u 05.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, r 6i p 2, r cI 1o 3w 16 cj, 16 A cJ 0r 1O; J ck cK cl cL 2, 3 8 9 cm N 1 cM cn 6I."
+      },
+      "2TR": {
+        "t": "6F w cW, cx 1 cX cy cY c cz 6g; b 6G cZ 3G, 16 e 8 A L 8 0F 7 0G 0q 6h."
+      },
+      "2DE": {
+        "t": "s d1 A r, G 10 2 2x 8D 5b W 5B G 0K 2s 2F 0 5c 5C u; p l H d2 1I 2X 8e 0f 1 0V, 3 A 0b 5d 1T d3 k I."
+      },
+      "S": {
+        "t": "U 0R 0 cG H x 0 0U ch k 5b 2w A 5B 4 2f 2Z; Q 1 V 0A z C 7V cH 0s 6 a 7w T 0b 3 K 1i 3 i."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "cN co, T 0f, – 7 0 cO 3O."
+      },
+      "2TR": {
+        "t": "\"N 6H C0, 4 r,\" 5 1 C1 C2 P 6i."
+      },
+      "2DE": {
+        "t": "\"8E 7 j d4, Q. 02“, f 5 0 8f W d5 2g 3V."
+      },
+      "S": {
+        "t": "“7W 5 ci, G. 05,” E b, 7x A 0f 2F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“C 2e 2, 01 cp h 1K 3W 6j cP cq cQ 1O."
+      },
+      "2TR": {
+        "t": "\"6I C 0h C3 6j C4 1G 25. h Z 0 C5 C6 C7."
+      },
+      "2DE": {
+        "t": "\"B 0E I 0Y, 3 q 0n 3w. 01 00 d6 2G d7 9 d8 d9 u.“"
+      },
+      "S": {
+        "t": "“1 0F 1d 6 c M cI C 0o 3U. 00 30 k cj 5 cJ."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6J 1 S 6k cr b cR cs."
+      },
+      "2TR": {
+        "t": "6J X C8 3h 6 C9."
+      },
+      "2DE": {
+        "t": "X da a 8 c 3W dA U db."
+      },
+      "S": {
+        "t": "N ck s L o n cK 2g 0v 2G cl."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0B, 6K cS 1 w m 6l 2E ct, 5 cT cu 0l b cU 0 6L 0z 6m 0 F cv cV, cw."
+      },
+      "2TR": {
+        "t": "17, 0H 6k 00 F 07 Ca, 3H 09 CA Cb 1 0i 6 CB 1 3i 0 l 18 6K 1 d Cc CC."
+      },
+      "2DE": {
+        "t": "1j 7 d 2h 08 dB dc, u 1 t 8F, 09 7 d g 0P 2A dC 0 z 0y dd 0 dD de 2a, 2H 7 0B 0 03 7 5D."
+      },
+      "S": {
+        "t": "1T, x 9 3v 5 0a 0b cL, 1 0g l cm x 9 k 7X 1D 7 6 29 4 2t 01 n cM 4 cn W 9 p 4 0D a B 6 9 3V."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "cW 3U cx G 6M 3x, J 17 0F 02 2, 1p 6n, cX, cy 0 cY cz 6N 2f cZ N, c 01 C0 e F 18”."
+      },
+      "2TR": {
+        "t": "Cd 3e CD c 6l, b Z 3I 19 C, 3j, Ce, CE 1 Cf CF 26, 0h Cg g f 27.\""
+      },
+      "2DE": {
+        "t": "7 dE 2y 2i, G 10 1 P df 5e, p 1 5E 00, 3 1 2b c dF dg, 3 7 5f, dG, dh 0 dH 0B, 8g 0c 0d 7 1u.“"
+      },
+      "S": {
+        "t": "09 7y M 0U H x 1 0g 7Y a, Q 1 5c 9 6, 7z 0 3w 3W 6 9 p 5 5C, 5 5d, 5 cN, 4 O co, 1 0V 0J 7Z 0k 9.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6o C1 C2 C3 9 8 C4 6O V, C5 C6, C7 6p C8, 3X C9 0 0t Ca 0e CA 6P V h 9 1j 2F."
+      },
+      "2TR": {
+        "t": "6L CG Ch 6m 8, e CH 0Q 28, Ci CI Cj, 6M 6n CJ, 01 Ck 1 CK Cl i CL Cm CM Cn L 8 1j CN."
+      },
+      "2DE": {
+        "t": "5F 1 E c 83 2X di dI a, dj A I C 3x, W 8G 6 5g 0 4 dJ 8 2 5G, c 8h dk 2Y, c dK 0 4 dl 6 8H, 4 i dL 1A."
+      },
+      "S": {
+        "t": "cO H 1 8 c C cp 7t, a 8 h 80 I i 3 81 A cP, 4 3 cq 0 cQ 2 cr, 0 cR 2 82 0j, 0 cs, 4 0 cS f d ct 0O."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Cb 0T 6q 0K."
+      },
+      "2TR": {
+        "t": "Co 1g 6N 29."
+      },
+      "2DE": {
+        "t": "5h 8i dm 5H dM."
+      },
+      "S": {
+        "t": "3q 1e, 3r, 83 7 5D."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“0c, c i CB, D 6 0 3y 3Y, c Cc 3 3z U 12 CC."
+      },
+      "2TR": {
+        "t": "\"v, y 0r CO 4 3, 3J 09 2a Cp u 3k 6o."
+      },
+      "2DE": {
+        "t": "\"1b, 5i b 0E 1, Q. e, 0 3X 5I 0E 1 o 3y 2 dn O 8 0y 28.“"
+      },
+      "S": {
+        "t": "“1E, 1 0F m 6, G. F, 4 7 cT 1 0F 0 2D 2h P D g 2H 7 1r."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6Q Cd t 6r CD, T 6!"
+      },
+      "2TR": {
+        "t": "0R 0s, 02 6O CP 4 3!"
+      },
+      "2DE": {
+        "t": "8I dN do, dO 7 t C, Q. e!"
+      },
+      "S": {
+        "t": "3x cu cU 19 84 i, G. F!"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C Ce CE t 0L 6R Cf, k 07 CF 2, 3Z M 6s Cg."
+      },
+      "2TR": {
+        "t": "2A Cq CQ z 02 Cr CR, H Q 6p C Z Cs CS Ct."
+      },
+      "2DE": {
+        "t": "8j i t 8J 5D, 8k 1 0h 5j dp T, dP 5J, 3 i I 1J 1U, 2S 1 1k 4 3Y 8K 2I 04."
+      },
+      "S": {
+        "t": "1I 0G 13 3 31 i 0w 1 e 5e C 5E, 0W 0O 1u i 0d o 6 1 0p 2t 9 0 2b 85."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "CG h 9 Ch CH, Ci CI Cj 6S.”"
+      },
+      "2TR": {
+        "t": "\"CT L 8 Cu CU, Cv 0 l CV Cw.\""
+      },
+      "2DE": {
+        "t": "B 0N dq 2z 8l 2Z, 09 1 5k, 3 0H 8L v t dQ.“"
+      },
+      "S": {
+        "t": "1 V 1a 3 86 cv x 1 1A 6 9 t cV I i 3X.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“CJ 0L 2g!” 6 7."
+      },
+      "2TR": {
+        "t": "\"CW 2b!\" 5 3."
+      },
+      "2DE": {
+        "t": "\"B 8m 7!“, f e."
+      },
+      "S": {
+        "t": "“cw 9!” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“g, 2C A U 6t, U Ck."
+      },
+      "2TR": {
+        "t": "\"B 3K 6 3l, 6 1J."
+      },
+      "2DE": {
+        "t": "\"X D 5K 8M dr – 8M dR.“"
+      },
+      "S": {
+        "t": "“1j B 3P 2D cW—2D 87."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "CK Cl 0L CL Cm?”"
+      },
+      "2TR": {
+        "t": "Cx CX Cy CY?”"
+      },
+      "2DE": {
+        "t": "ds dS 8n 8N 7, 5l 6 0o?"
+      },
+      "S": {
+        "t": "5f 0D 3y 02 9 88 3 l 3s?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“2G 40 K D x 6T CM Cn B.”"
+      },
+      "2TR": {
+        "t": "\"2B 6P 4 q 2c Cz 6q.\""
+      },
+      "2DE": {
+        "t": "\"dt 2 8n 30 3z l 0l 0q y x 3Z 0F.“"
+      },
+      "S": {
+        "t": "“cx 0 3y 2 cX G. 0S 03, 2 3Y 0B.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "CN Co 6u, 2h, CO Cp 1 CP 6U."
+      },
+      "2TR": {
+        "t": "6L CZ 6Q, 6r C, 3L d0 6R 0 d1 3m p."
+      },
+      "2DE": {
+        "t": "0i dT 40 2X 8e du j dU, 4, 41 1, C 0y 5L F dv a."
+      },
+      "S": {
+        "t": "3z 7V cy 0s 3Z 5 cY f 8 h, 1 0F 5F, 89 cz c cZ."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"1P\" 7; “1q 3 Cq u 3o 41 1K 3W CQ Cr 2, 42 CR 14 Cs CS.”"
+      },
+      "2TR": {
+        "t": "\"0R 0s,\" 5; \"3M a d2 1G 25. d3 3n d4 d5 d6 d7.\""
+      },
+      "2DE": {
+        "t": "\"5m 0H 0h 5M“, f 5; \"3s dV n 54 5n f 1 6 0w 0n, 3w. 01, 3 8o dw x 2v dW 8O dx.“"
+      },
+      "S": {
+        "t": "“32 i,” E b; “a 8 0e g 2H D 40 6 1 8 8a 3 C 0o, 3U. 00, 6 5g C0 d 8A X 2 07 0j.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Ct CT Cu CU Cv 0 64 CV 19 0a A Cw CW Cx 6v."
+      },
+      "2TR": {
+        "t": "d8 6s d9 da 3A dA 0I 6S db dB 2C."
+      },
+      "2DE": {
+        "t": "5h 8p dX j dy 31 x 0 dY c dz dZ g, 2 n 2j g e' D0 5N."
+      },
+      "S": {
+        "t": "3q 8b C1 C2 5 C3 2i 4 5G Z 0 C4 C5, f 1U 41 y 7P C6."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“1Q P 0m CX, D, 3 u 01 Cy CY Cz F o 1 CZ d0."
+      },
+      "2TR": {
+        "t": "\"6t, 0H dc, 2 12 Z dC 3N dd 0 dD de."
+      },
+      "2DE": {
+        "t": "\"1j 7 A d D1 32, q 05, 32 7 g L 5o 33, 8P A 8 0w D2 5B 0L 00 34.“"
+      },
+      "S": {
+        "t": "“1I 9 d 1H D a, 2I, 9 k e 2j D 5 5h 0D 0 C7 B R f 1 e 13 3 9 g 0t."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "1r r 2H 2, h d1 0 h d2 i d3 d4 2i”."
+      },
+      "2TR": {
+        "t": "6F dE 1 df dF dg dG c 3o.”"
+      },
+      "2DE": {
+        "t": "B T b 5O, q 2x 0 q D3 D4 8 D5 D6 J.“"
+      },
+      "S": {
+        "t": "1 3v H x C 0U 4 C C8 0H l 7 42 2J 8B.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "d5 d6 d7 V 9 H 6V."
+      },
+      "2TR": {
+        "t": "dh dH 6T 8 6u."
+      },
+      "2DE": {
+        "t": "s 8q A N, N 4 D7 3V D8."
+      },
+      "S": {
+        "t": "U 33 a 0r 3 C9 0 Ca 8c."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“1R 0 6w H 0g d8."
+      },
+      "2TR": {
+        "t": "“0j 6U, 6v Z di."
+      },
+      "2DE": {
+        "t": "\"2J D A, 0 E 2G 8Q 0I 1 A 00 D9.“"
+      },
+      "S": {
+        "t": "“43 a B, 4 c M 8C 1 j 1J a 3 9."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6W 6x d9, D 6."
+      },
+      "2TR": {
+        "t": "6V dI 4 3."
+      },
+      "2DE": {
+        "t": "Da 7 d b l, Q. e."
+      },
+      "S": {
+        "t": "CA 3 g, G. F."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "da dA: '2G 6X 6y 1s."
+      },
+      "2TR": {
+        "t": "dj dJ: '2B 3O dk 6w."
+      },
+      "2DE": {
+        "t": "0a 8r 8R: \"DA 0k 8 3Z 0F“."
+      },
+      "S": {
+        "t": "N 8d p: 'Cb CB D 3Y 0B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "db dB 2I 6Y."
+      },
+      "2TR": {
+        "t": "dK N dl dL."
+      },
+      "2DE": {
+        "t": "8s 0C Db DB."
+      },
+      "S": {
+        "t": "8D 2 5 Cc 7G."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "dc 0 dC dd."
+      },
+      "2TR": {
+        "t": "dm 1 dM dn."
+      },
+      "2DE": {
+        "t": "Dc g 8S 0 DC."
+      },
+      "S": {
+        "t": "CC 2 Cd 4 CD."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "dD 9 1 de.'"
+      },
+      "2TR": {
+        "t": "'dN N do.'"
+      },
+      "2DE": {
+        "t": "1h 7r g c 5p."
+      },
+      "S": {
+        "t": "0i Ce 3 0 CE.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g, 1a 2j dE df, T 6 0 c 2J 2, 5, k dF dg 6B."
+      },
+      "2TR": {
+        "t": "0j 4 3, dO dp 0Q dP 6W 2 1 16 02 0e dq dQ."
+      },
+      "2DE": {
+        "t": "X D 4 7Q, 2 i 2c 5g, Q. e, 0 1 1u, 3 i Dd 6 I 8t."
+      },
+      "S": {
+        "t": "1v B 0 7J f 0G p 8e 5H, G. F, 4 1 0V 6 a 8E Cf 3 i."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6h 1I 6z 6Z dG 0 2e 2, 1A t 0L V 9 70 dh dH."
+      },
+      "2TR": {
+        "t": "1F 3p 6x 2d 0Q dr 1 3P C 02 dR 8 w ds dS dt."
+      },
+      "2DE": {
+        "t": "B 0I 29 H 8T 28 5P 8u, 0 1 0E I 0Y, 3 i 0J g c 8U DD, N t 6 8J."
+      },
+      "S": {
+        "t": "1 e L 2e w 1r 5i 8f, 4 1 0F 1d 6 0G p 0e 8F I 0 8g 3 31 i."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "di 71 72 – 8 71 72!”"
+      },
+      "2TR": {
+        "t": "dT 6X 6y, e 6X 6y!”"
+      },
+      "2DE": {
+        "t": "X 0s 2D 5q b 8v 8V – b 0s 35 b 8v 8V!"
+      },
+      "S": {
+        "t": "q j 8G C CF 5I—a j 8G 1k 5I!”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 73 dI 74 dj 0 6b dJ dk."
+      },
+      "2TR": {
+        "t": "du dU dv 6Y dV 1 dw 3q 11 dW."
+      },
+      "2DE": {
+        "t": "s De 8 8A 42 4 43 0 DE g 0e 2A 2C 0 Df."
+      },
+      "S": {
+        "t": "U Cg A 2k 7 O CG 2 Ch, 4 CH Ci 4 CI 7 A 29."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "dK 75 dl 43 76 3 dL 1S 44."
+      },
+      "2TR": {
+        "t": "dx 6z dX dy dY 2 6Z 3Q 70."
+      },
+      "2DE": {
+        "t": "B 5Q 0P O E 5r, 2 DF S, 5p 0C Dg 6 J."
+      },
+      "S": {
+        "t": "1 1H c 44 y g P, W 8 Cj 2 1K 0 CJ 2 5 0x 2 8h."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, dm dM 0 dn dN 0k do, dO 45 2k 0 77 dp 78, 5W, dP dq B 4."
+      },
+      "2TR": {
+        "t": "dz dZ 6D, 3F D0 0 D1 1z, 71 1k 72 73, 74 D2 6d, D3 1 D4 D5 0 2D."
+      },
+      "2DE": {
+        "t": "s K DG Dh 0 a g j DH, Di 2F 8w, E DI 8W 11 0 R Dj DJ 1I 8x R Dk, DK Dl."
+      },
+      "S": {
+        "t": "U 8 Ck 4 CK 7 5 Cl CL 2X, c Cm 8H 1b 4 5 CM 0s, c 5 Cn, CN 8B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R dQ dr dR ds 0M 2K; 8 79 0 2l 79."
+      },
+      "2TR": {
+        "t": "D6 D7 D8 D9 75; Da 1 DA 3M 0 Db 3r."
+      },
+      "2DE": {
+        "t": "5R DL 8X Dm DM 2u Dn 06; V 5G 0 J 5s DN 8y 0C Do."
+      },
+      "S": {
+        "t": "2W 8i 0p e L 0k Co; A CO 4 Cp 6 2 5 34."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "dS dt dT du 8 dU 6i 0e dv 46 dV dw."
+      },
+      "2TR": {
+        "t": "DB Dc DC Dd DD De 2e DE 76 Df DF."
+      },
+      "2DE": {
+        "t": "7O 2 5S 1v DO Dp DP b 5t Dq 1S 8Y, 4 W 7P DQ."
+      },
+      "S": {
+        "t": "CP 0 8I 2 A 45 Cq CQ Cr 0 8j 2 CR 0j f Cs A CS."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"7a dW 2L dx\" 7 6."
+      },
+      "2TR": {
+        "t": "3, \"Dg 3R DG,\" 5."
+      },
+      "2DE": {
+        "t": "\"36 37 4 z 2g Dr DR 1J Ds“, f e."
+      },
+      "S": {
+        "t": "“5j 0H 5J 0D 0d u e,” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"1b, dX 7A k dy dY dz dZ l D0?\""
+      },
+      "2TR": {
+        "t": "\"h, 1K 77 Dh 78 2E 79 DH H Di 3s?\""
+      },
+      "2DE": {
+        "t": "\"01, 5T 7 r DS, b 8z 6 5u 0 I c Dt DT Du?“"
+      },
+      "S": {
+        "t": "“00, k 9 e 0 Ct 3 1V 0 3n 4 3 1J i 0 CT 7 Cu?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "D1 D2 D3 47 D4 1N c D5 D6 7b D7:"
+      },
+      "2TR": {
+        "t": "DI Dj DJ Dk 3g 09 DK Dl DL:"
+      },
+      "2DE": {
+        "t": "8Z c DU 8r, 4 1V 90 Dv K, 44 1 DV Dw 91:"
+      },
+      "S": {
+        "t": "CU 0 Cv 8d f 07 1e d CV 1 1J 0 5H Cw 8J:—"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "48 0C 0 W 3 1B u D8 2G 6X 49 7B 2B 0e 2m O 10."
+      },
+      "2TR": {
+        "t": "7a 0a 0S Dm 15 2 DM 3S Dn 2B 3O 1l 0 7A 2f 2e 0 14 7b 0n."
+      },
+      "2DE": {
+        "t": "DW 8 2 Dx 1B 0D DX 38 39 Dy d 8 3Z 0F 9 1s, 2, r 4 DY, g 9 92 1c Dz."
+      },
+      "S": {
+        "t": "CW 0v 0K, 08 8k g 0t, O 2B 8K D 3Y 0B f 1w, a B Cx, 3 5 46 0x."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E x 03 7c 7C D9 G 7d 1l Da 0u 4a DA Db DB."
+      },
+      "2TR": {
+        "t": "4 q R, DN Do DO Dp DP, E Dq DQ Dr."
+      },
+      "2DE": {
+        "t": "05 0q y D 9 DZ e0 1w e1, 1W 5 29 93 5U J 94 G 95 e2."
+      },
+      "S": {
+        "t": "G. 0S 03 B 5 CX Cy 2 6 CY, 1l b s 8l R A 2K H 5 47 I 2S 2c."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E 03 Dc, DC X Dd 0 3 DD De DE Df 4A 4b DF Dg."
+      },
+      "2TR": {
+        "t": "4 R, DR j Ds 3j 0 DS 1 Dt DT 7B 3t 3T Du DU."
+      },
+      "2DE": {
+        "t": "05 y D 5f, BK 2u e3 0 e4 o 5v 5V 5w, 1x e5 1X 2 e6 5W."
+      },
+      "S": {
+        "t": "G. 03 B 5 5C, Cz 2c 2 8i, 4 7Q 7 5k 5K 5l, D 0 CZ 1L 2 0 5L 2 6 0U."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, DG Dh K, 4B 0 DH 1t 1 0D G Di DI."
+      },
+      "2TR": {
+        "t": "Dv DV i, 7c 1 7C Dw 0 k s DW."
+      },
+      "2DE": {
+        "t": "s e7 G 9 O E e8 e9, ea 0 96."
+      },
+      "S": {
+        "t": "U s d 0 5m 2 1K 5 P 2 d0 d1, d2 4 d3."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0U S Dj 2, 5, 4c DJ Dk DK Dl DL 0v Dm."
+      },
+      "2TR": {
+        "t": "2F 7d Dx 1Z DX 1L, 2 Dy 3u 3U 0 DY Dz DZ."
+      },
+      "2DE": {
+        "t": "eA 3r 5U w 5 d eb x H 94 96, 8 H 5 eB 9 ec 45 eC w."
+      },
+      "S": {
+        "t": "3x v 2c b s d4 d5 w 0 2K, 7 f b B E 3 e d6 5M d7."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "DM Dn 7D 0a A 08 1 DN Do f 0 0V 0C 0n 2M X 7e DO 7E Dp DP 2n 7f Dq DQ."
+      },
+      "2TR": {
+        "t": "3d 3v e0 W 0 7D 7e 3V e1 1 0J 0a 01 2g j 7E e2 e3 e4 e5 1m e6 e7."
+      },
+      "2DE": {
+        "t": "97 H 1K 5x d 1i n 9 46 98, 0 99 1B 1a ed S eD ee, 3 0O 2 1l 8 47 eE a."
+      },
+      "S": {
+        "t": "0i 7o 8L 1U d8, 3r, D 0 0z 2 0 1B, 4 0v 0K, 0k 8m 8M, O 5n 8 7O 6 S 2 0 d9 8 R 1W."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Dr DR 7F 4, 04 7g 0G q Ds 7G 0 DS 4C Dt a DT Du 2N 2F."
+      },
+      "2TR": {
+        "t": "e8 3w e9 14 1M ea, 0g 7f eA K 0 eb 7F 1 eB 3L ec eC ed eD."
+      },
+      "2DE": {
+        "t": "0a ef 0g 9a 07 48, p b 9A eF 9b E eg eG, 0 A a 5X, c 47 6 eh, 12 2 eH ei eI a."
+      },
+      "S": {
+        "t": "N da t dA y 0 8n, Q 0 5N db 48 c 1h dB, 4 a 8 8N 3 31 0 dc 1c 0 dC d L 89 8o."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g DU a 2m Dv 1 DV G Dw A, 7h 7H 2o 7B 2B 0h."
+      },
+      "2TR": {
+        "t": "6w 09 ee 7 eE 0 ef eF 7g a, 3W eg 1l 0 7A 2f 2G."
+      },
+      "2DE": {
+        "t": "ej 6 0j 7W 3a 2 1s k 9 eJ ek x, 0U 9B eK el g 9 92 1c 2C."
+      },
+      "S": {
+        "t": "dd 3 g 1Q 0 2B dD 0 8O 2 O de dE, Q 5o df 8p 3 1Q 3 46 0x."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "DW Dx 2O 7F DX 7i 0 8 Dy 2I 7I DY."
+      },
+      "2TR": {
+        "t": "1n eG 7G 7h eh 2h eH 1 38 ei eI 7G 7h ej eJ ek."
+      },
+      "2DE": {
+        "t": "49 a 4a, 3 2 eL m em 1x eM C en a, 0 A S j 4A eN, 4 eo, 3 5 x H 1K 8O a."
+      },
+      "S": {
+        "t": "dF 8 dg D 0 dG 2 0 5O 2 0 dh w 0 8P 2 0 1W, 4 O 3T 2e, f 3Z 6 b d 8A w 0 1B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R 1c Dz 41 DZ e0, 0A e1 7j 2p 0Q, 7J 1 4d 7k 6p e2 0Q, 1T, e3 4D, 7J 08 1u 4D, e4 0H 1u 4e K e5 e6 K 4E 2f 4f."
+      },
+      "2TR": {
+        "t": "eK 38 el, eL em, eM en 0k 0F, eN eo eO ep eP 0G eq 1N, 0M s a 7H 0 7i eQ 1a 2H 1N, 7H 36 1o 2i 1N 1 er 1o 3x 1A eR es 0 eS 1N 2I 23."
+      },
+      "2DE": {
+        "t": "9c 2 4A 1v 9C 9d d 5y, 3 b 5Y eO a, 3 9 9D ep eP 5z a, 3 j 5Z eq 1S o 1L eQ er 0 3 1y 1Y 0C eR 9e 2k 3A: es eS o 1L 0 9 9E x et, l 2s eT d eu 60 9f."
+      },
+      "S": {
+        "t": "5p 8q 2 A 11 dH 6 0 5P d h L di 7, 6 5 49 f 5q 7 a 8 1m, 6 5 5Q 2 35 0j t dI 0k 0 11, 4, 5r, 6 r t 5R 2 5 dj 8Q, 4a 36 2 1x 1K 0I 4A 0 11, 4 O dJ dk, f 2C 3Z dK 2 1x y 0 dl."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "e7 2, D x 03 0u 0C 0N 1c 2P e8 e9 0 ea 4E 7K 7l, 7L.7m., 7K 7l, 7L.7m.-eA 08 eb 15 7M 4F 3Q 00 1I eB 15 7M 4F 3Q 1U ec 0Q 2q eC. 0 ed 42 eD O ee 1C V eE."
+      },
+      "2TR": {
+        "t": "4 q 0t E 0a 0A 0T 0S 0 et eT eu 1 1A eU, ev 1 1b AZ eV ew, eW.ex. eX W 7I i O 0 1F ey i 1I 24 3X 1a 0F eY 7j. 3y, 3Y ez 8 6 7J 3C 0 1B eZ E0 E1 2j E2 1 3n E3 E4 3z 0b."
+      },
+      "2DE": {
+        "t": "M D 4b, 3 05 0q y 8 61 1B L eU 8p 8 0e 3b ev K, 0 2 eV 1C S G ew 1w eW ex. M 62 d N L 2K eX 9F 7y 2W 3v 02, ey 2 eY ez 0 02, eZ 8 Bl, E0 E1, E2 E3. 0a 1m D 63, 3B 6 E4, 4 9 U E5 9g v b 1c 9G, 0 A 3c 2e 1M 0Q, 3 8o 9h 5g 0o."
+      },
+      "S": {
+        "t": "q B 37 6 G. 0S 03 d dL 5 1R 8b 7 A 2l y 6 0K, 4 0 14 0I s L dm H 0 5s 2 g 2L, W B 5 0E 1r 5d 7n 2z 3u 05, dM dn 2 dN 4 05, 2 bD, do dO, dp.dP. N 2m 38 6 0G e 15 7 4b dq f dQ 5 n dr 8r I 0 0x, 4 8R a 5S l dR 6 5g 8s j 81."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "ef."
+      },
+      "2TR": {
+        "t": "E5 E6."
+      },
+      "2DE": {
+        "t": "E6."
+      },
+      "S": {
+        "t": "ds."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "— eF 4g Q eg eG 2, D 15 3V 0f 2C A D x 1d eh 43 eH 0L 4f."
+      },
+      "2TR": {
+        "t": "—E7 E8 E9, 4 1I 24 1b 4 q R Ea 6q EA 2J Eb EB."
+      },
+      "2DE": {
+        "t": "—M E7 b E8, 3 05 2W 3v 02 53 30 3z l 0l 0q y 5l S."
+      },
+      "S": {
+        "t": "—q B dS H u 1a 3 8S 6 G. 2z 3u 05 s 8t L 3s R 0 3y 2 0 4B 2 G. 0S 03."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "ei eI ej eJ ek."
+      },
+      "2TR": {
+        "t": "Ec 7k 0 EC Ed ED 0K."
+      },
+      "2DE": {
+        "t": "M E9 Ea 55, 3 9 8U 9H S."
+      },
+      "S": {
+        "t": "q B D 8T 5t 6 5 8g s L dt."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "4G eK m b 0 1D el 1e."
+      },
+      "2TR": {
+        "t": "3Z Ee F a EE Ef EF."
+      },
+      "2DE": {
+        "t": "0a 64 8 0F 06 EA, Eb 9h EB."
+      },
+      "S": {
+        "t": "0X e L 57 4 dT 8s 7 0 5T D 0B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "7n 7N eL em eM B en, Z 7o 4h 2, 8 0N 7O (eN eo eO) 7p ep eP, 0A 2Q q eq 0G 4H eQ G 2r f 0 1T, 0G er 1v 7P eR es eS et."
+      },
+      "2TR": {
+        "t": "40 7K Eg EG 2i 7l 41, 0A 2k (Eh EH) 7L Ei 0k 0F, 0u 42 K 0 EI Ej c 2i 0F 1 0M s 7m EJ Ek 2K 43 7M 1N 2l EK."
+      },
+      "2DE": {
+        "t": "Ec c 9i 0C 9e o 1L m 65 EC D 2h 4b, 3 4 Ed 1v ED (o Ee) 66 0g, 3 A 1Y 4B, G 10 9 EE Ef 13 1l 67 0r 3C, 0 1y 0s 7Z, 3 9I EF 8 2 Eg m EG 2k 3A."
+      },
+      "S": {
+        "t": "8u 0 5R 2 5 8Q 7 0 11 2 0 2h 47 a B 0n 37 6 0 8U du 2 A 2l (f B R 0 dU 8v) t 0I 3 l 1m, 6 r t 5u H x v dv 5U d L 5v 2F 3 0 1X, 4, 5r, a B dV 6 5V 5w e L 0I 5W 0 dw 5x 2 0 1W."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "eT eu 1V 7q 2, U 42 2R eU, ev n 0N 2s eV ew, 0R eW ex 0 2S 0G 4H eX, L 0T 7Q M 7r 2t 9 ey."
+      },
+      "2TR": {
+        "t": "El EL, 6 3n 0 3Y 7n, Em n 0A 0T EM En 7N, EN Eo 1 EO 0u 42 7o 1 1H 3Y 0l Ep 44 8 0u 45 EP 2J."
+      },
+      "2DE": {
+        "t": "0a 1m 34 1d x, 3 9 68 Eh 1c 4c S: X EH S 8 0e 1z 3b Ei, V 1S 3A EI 0 V 2l S 13 1l 67, 2 3d 8 47 9j S, N 0m 1Y m Ej 6 EJ."
+      },
+      "S": {
+        "t": "N 2m 39 B 6 5 2D 5g 0x s L 5X, 6 0 8V 8 dW 3 4X 7 A 0h 2l, A 0j dx, 4 A 4c 1M 5v 2F 3 0 dX, f 8 0T dy o H 3 4C m 36 2 0 0x."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "eY ez eZ 7R E0 K E1 E2 0o 7s E3, 5, E4 E5 E6 0 E7 B E8 E9."
+      },
+      "2TR": {
+        "t": "Eq EQ, Er M ER Es 1 ES 0Q 2e 2L Et 7O 03 ET Eu EU."
+      },
+      "2DE": {
+        "t": "0a Ek 2 EK 64 S 8 4 El 43 F 9J h F 69 6a 9k, 2 c EL E 0S Em 9K 0 EM En."
+      },
+      "S": {
+        "t": "N dY 2 0 25 5T s L 1n 7 0 dz 2k 2 8w J, 2 4d 4D, W B 5H Z 0 dZ c A D0 8W 4 D1."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0i 6 Ea 2k 0 EA 7S B 2T 3 4i Eb 6x EB."
+      },
+      "2TR": {
+        "t": "0D 3 2 1O 2m Ev 7p EV 1 7P Ew EW Ex."
+      },
+      "2DE": {
+        "t": "1F e EN E Eo 11 0 EO Ep 0j 9l 1Z."
+      },
+      "S": {
+        "t": "1G F D2 c D3 1b 4 D4 3a 3 g 5y 1y."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"Ec, 0w 2, 2u EC Ed ED f\" 7 5, Ee EE."
+      },
+      "2TR": {
+        "t": "\"EX 0e Ey 2m 0U EY G,\" 5 Ez 0 7q."
+      },
+      "2DE": {
+        "t": "\"0i 0k w 4C 19 6A EP“, f 5 8 0e Eq EQ Er."
+      },
+      "S": {
+        "t": "“N 0f s 2a v 1w 2 44,” E b, 7 A D5 2X."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“Ef EF, D Eg 7t 4I 2, EG Eh EH 9 3q a Ei 0Q 9 0a A EI?"
+      },
+      "2TR": {
+        "t": "\"4 r, EZ 46 7Q 47, f0 f1 f2 f3 48 5u, f4 04 7r f5?\""
+      },
+      "2DE": {
+        "t": "\"4d 1 7 ER 6b, 05 02, k A J 04, 3 7 n g Es 6B 0B, 14 0U ES Et 3B v 1n ET Eu?“"
+      },
+      "S": {
+        "t": "“8x 1 10, 7 0 2M 3A, G. 05, 0l a B 6 9 p 1U D D6, 26 r D7 3 l 3N 15 3 D8 M 31?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“C Ej D 6 B EJ Ek, 7T EK, 04 0V 0C D x 03 B b 2P 1s 1E El EL 4G 1 Em EM 0 4j En 4J."
+      },
+      "2TR": {
+        "t": "“f6 4 3 1p 0B f7 f8 f9 fa; 0g 0J 0a, 4 q R 1p 6 0S 0 fA 7R fb fB fc 3Z 0 fC fd 1 fD 7s 2M 2n."
+      },
+      "2DE": {
+        "t": "\"B EU 8 Ev EV, 2L, 0L 0G 3D, 0l e; p 14 1 20 4D U 4e n E 0l 0q y Ew 6 21 K, T 1 8 R 9L 8 0F EW 0 0E F 2B x 6 0w Ex 4E.“"
+      },
+      "S": {
+        "t": "“1 D9 D Da DA, 2n, c C 3b, G. F; Q 0v 0K, 5Y 3 02 2K n 1R c G. 0S 03, 1 Db D O 8X 7 0B, 4 2Y 3 C 2K w r."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "EN 7u a, Eo EO 7U a 3 7v Ep 05 4."
+      },
+      "2TR": {
+        "t": "fe fE 2 49 ff 7 2 fF fg 0v."
+      },
+      "2DE": {
+        "t": "9m 0z 3e 3E 1 0c, 12 1 o 6c 9M 0 44, 03 7 3f 4f 06."
+      },
+      "S": {
+        "t": "1 1A 0J 2 g 2d 1c 1 8 7 0 5z, Y 1 1J 0D 9 e 2N 3B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "EP 4k Eq 2D 1f 0 4K 01 EQ 7V Er."
+      },
+      "2TR": {
+        "t": "fG d 7 4a D 0p 4A 1 4b 0h fh fH 28 8 fi 2n."
+      },
+      "2DE": {
+        "t": "B EX 9n 4 Ey 9N 2D 6C 0 EY t, 00 c 0k 6 Ez."
+      },
+      "S": {
+        "t": "1 D 0y 5Z 0 8y 8Y 2 C DB, 4 1 Dc 3 1N 0 0f 06 M 2k."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "ER 2U 2, t W 7w Es, W 0H ES 0L Et."
+      },
+      "2TR": {
+        "t": "2N 1P 0b C 1c fI fj 1c a fJ fk."
+      },
+      "2DE": {
+        "t": "B T 1N 1M 0Q, 3 1 9o 8 0w 9O 8 2 4v 0D 8 0w 1K 1H 5l 0o 37."
+      },
+      "S": {
+        "t": "1 e T 1o 6 1 0g e L 3s 4e D C 8z 8Z 08 D C 4E."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "1I 6z 6Z 1 0D t ET 0 c 1C 2U - Eu 6Q, 3 2v?"
+      },
+      "2TR": {
+        "t": "1F 3p 6x 0 k 02 0Q 1C 1 0V 1P 0b C - 0R 0s, 2 a d?\""
+      },
+      "2DE": {
+        "t": "1h O EZ I 16 8T 28 5P, 0 1 T 1N 1M – q 4F, 03 D b 0p?"
+      },
+      "S": {
+        "t": "0i P 2e i w 1r 5i 8f, 4 1 e T 1o—DC 60, 0D B 6?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g, 2D EU 2o Ev EV 7W Ew 4."
+      },
+      "2TR": {
+        "t": "fK fl 1 0p 1H 6B 21 fL 0n."
+      },
+      "2DE": {
+        "t": "M a 9 f0, H 58 f1 89 g 2 8a f2."
+      },
+      "S": {
+        "t": "q 8 5 Dd 2 0 7u, 2e DD z 90 De y 0 7U."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0U w L 1J 7x d EW 7X."
+      },
+      "2TR": {
+        "t": "N 3f I 13 7S 9 4B 7t."
+      },
+      "2DE": {
+        "t": "6d 59 2U f3 1V f4 0n h 8 2 1t."
+      },
+      "S": {
+        "t": "0i 2H 2V 07 2v 0o J 91 7 0 DE."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R Ex EX 1 0 W X Ey EY 3s Ez."
+      },
+      "2TR": {
+        "t": "fm 7T fM fn 0 j 05 fN 0L."
+      },
+      "2DE": {
+        "t": "f5 V 9p f6 1 L 5o g 9 0D 0W f7 1o 8L."
+      },
+      "S": {
+        "t": "Df A 92 1 93 5 DF 2 S 08 0L Dg 94 3X."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"0E 15 3V EZ?\" d 7."
+      },
+      "2TR": {
+        "t": "\"4 1I 24 r S?\" 5 9."
+      },
+      "2DE": {
+        "t": "\"05 2W 3v 02?“, f h."
+      },
+      "S": {
+        "t": "“G. 2z 3u 05?” E J."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "7a 12 4l f0 f1 2V 7y."
+      },
+      "2TR": {
+        "t": "40 7u 4c 0 fo 4C 4d."
+      },
+      "2DE": {
+        "t": "5h 9P f8 9q d E R f9 40."
+      },
+      "S": {
+        "t": "3q 2h 1e 95 c 5 DG 0s."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"C 17 2G 40 K D x 1d f2 f3 y 0L 02.\""
+      },
+      "2TR": {
+        "t": "\"7U 2B 6P 4 q 2c 5V fO fp.\""
+      },
+      "2DE": {
+        "t": "\"B 8m 7 30 m fa 3z l 0l 0q y x 3Z 0F.“"
+      },
+      "S": {
+        "t": "“1 31 9 I 0 Dh 4B 2 G. 0S 03, 2 3Y 0B.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0f f4 f5 B 0l 4L f6 0 f7 0D G 7Y f8 f9."
+      },
+      "2TR": {
+        "t": "r fP 0 4D 0i fq 1 fQ 3E c 0 0w F 69 fr."
+      },
+      "2DE": {
+        "t": "02 fA d E 0O fb 2 fB l z 0 fc k 9 fC 6D 8 W 2A 1R."
+      },
+      "S": {
+        "t": "05 33 3 01 c 5 DH 2 Di, 4 DI 06 A 29 0y 0b 1C S W B Dj."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"0U 3z, d\" 7 6."
+      },
+      "2TR": {
+        "t": "\"N 4e, 9,\" 5 3."
+      },
+      "2DE": {
+        "t": "\"6d 3y, h“, f e."
+      },
+      "S": {
+        "t": "“96 2H, J,” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"fa 0n b 0 W w 01 9 e 1 fA l 7z 0 2l 0l 3 b 1w 4m 7Z fb 4M 2, 3 0H 0l fB fc 1W l 09.\""
+      },
+      "2TR": {
+        "t": "\"fR 7v fs 1c a 6 2o 0h 8 0 7V fS 1 1q 0i 2 6 1J 14 08 ft fT fu, 2 a 49 64 fU 2O 0W.\""
+      },
+      "2DE": {
+        "t": "\"3F 9Q 4g 1D 0D fd 9r v 7 1N fD, 0 2 05 a 3f 9R, z 0d 0t U 6A 3e 6 6e, 03 z 0L 2 fe 4G 0N.“"
+      },
+      "S": {
+        "t": "“DJ O 3c 0b 08 4f 0c 0W T Dk 3 9, 4 0 34 8 0k 3 1u 01 O 1y 2 g n 87 2d, f 1Y DK 01 7 97 a Z.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"1F 2, H fC e 1 80 81\" 7 d 3T 0k."
+      },
+      "2TR": {
+        "t": "\"0x fv 1j 7w 1Q,\" 5 9 fV 0 l."
+      },
+      "2DE": {
+        "t": "\"B 4h, A 0s 0M 9s 1U, b fE“, f h ff."
+      },
+      "S": {
+        "t": "“1 0C r j l T 98 7 97 a Z,” E J, Dl."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"2w 4n, 6w, 8 82 fd k b 1w fD 4.\""
+      },
+      "2TR": {
+        "t": "\"7W A, 6v, e fw fW 6 fx.\""
+      },
+      "2DE": {
+        "t": "\"fF 3C 1 E 2G 8Q U 0Q fg, W 1Z 6 9S.“"
+      },
+      "S": {
+        "t": "“DL 0 4f, c M 8C, 1 0g l 0Z 99 3 4F A 1y.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“j, D 6, fe e fE 2W V h 9 ff, z P fF 1 0 W X 0W fg 2L fG 0 06 0g 83 fh Y fH 6R fi” 7 d."
+      },
+      "2TR": {
+        "t": "\"4 3, Z 1d 0 0X fX 1j, Y fy 05 fY 0 j 0w fz fZ 1 2L F0 Z 07 0 4E F1,\" 5 9."
+      },
+      "2DE": {
+        "t": "\"Z, Q. e, A fG I 3x, 00 08 9t, 0p 7 0g 2 1m 0x 9- 0D 9T F fh, 0 Y fH 00 0L 69 6a L fi fI“, f h."
+      },
+      "S": {
+        "t": "“04, G. F, a B 80 I i 3 9a 9 1S, I 9 e L 2 5J 3 0 9A 0y 08 9b 7 0 Dm, 4 u DM 9 5 16 3C D 4d 4D,” E J."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"fI 2x c fj fJ fk 0 H fK 4N 2, 8 67 i I 8 84 2X G fl.\""
+      },
+      "2TR": {
+        "t": "\"7x 4f F2 7X F3 1 F4 M 0y 7y 48 s F5 3D m F6 F7.\""
+      },
+      "2DE": {
+        "t": "\"fj 15 1 0L 0w fJ 9u 0 0E fk, P 6 fK, 3 0v, 03 5 9U, 1a P G 9v fl 0o 04.“"
+      },
+      "S": {
+        "t": "“2U 0 3d 0d 1 0H Dn c C 9B, 4 1 0F 7s 3 DN K 6 1S b 0p 0u j 9c 7 15 1O K.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“2y fL fm” 7 4l."
+      },
+      "2TR": {
+        "t": "\"2p F8 F9\" 5 Fa."
+      },
+      "2DE": {
+        "t": "\"B fL I 0c fm“, f 1V 90."
+      },
+      "S": {
+        "t": "“1 9C 0J 9d,” E 07 1e."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“4o 1o fM 85 2, P fn 6s fN 0 fo.”"
+      },
+      "2TR": {
+        "t": "\"7Y 4F 0N FA, Fb FB Fc 1 FC.\""
+      },
+      "2DE": {
+        "t": "\"B 3g 6E 0J fM, 4 fn 8K 6 9S 0 fN.“"
+      },
+      "S": {
+        "t": "“61 1 10 B 6 9 0g 4F 4 7Y 0 Do 85.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "d fO 0K."
+      },
+      "2TR": {
+        "t": "9 Fd 1i."
+      },
+      "2DE": {
+        "t": "h 3U g V 4H."
+      },
+      "S": {
+        "t": "J 1H D A DO."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“fp 86 0n 07 87” 7."
+      },
+      "2TR": {
+        "t": "\"2P 4g 01 7z 7Z\" 5."
+      },
+      "2DE": {
+        "t": "\"B fo 00 j 9Q 4g“, f 5."
+      },
+      "S": {
+        "t": "“62 1u 9 63 O 3c,” E b."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“fP 0r 4N 2,” 0f 7, “D x 03 0S e F fq."
+      },
+      "2TR": {
+        "t": "\"FD 46 Fe C,\" 5 r, \"4 q R 08 g f 80."
+      },
+      "2DE": {
+        "t": "\"fO 15 1 5C“, f 02, \"3 1 0c 0d 0l 0q y 3E.“"
+      },
+      "S": {
+        "t": "“1 0H 5b 2M,” E 05, “6 1 1A 0J 2 G. 0S 03."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R 3w k 88 4, 7c 7C 1g fQ 1x 88 fr, J fR."
+      },
+      "2TR": {
+        "t": "FE H Ff 4G, Y FF Fg 60 z FG b Fh FH Fi."
+      },
+      "2DE": {
+        "t": "5R 2x a I 4b, 0p 07 93 5U 6f P 0h 3D, p i 6F d x c 11."
+      },
+      "S": {
+        "t": "2W 0U 8 Dp 3 i, I 2S 2c 64 C 3b t DP c K, Q 0G Dq DQ."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "48, fs 0n 0x 7e 5, 7w fS ft b 89."
+      },
+      "2TR": {
+        "t": "B 81 0J FI I 01 0Y 7E Fj FJ Fk 6 4h."
+      },
+      "2DE": {
+        "t": "B a 6g U 4a, G 5 20 1a 2m 4H fp 8 q 9O 8 2 4v 9V."
+      },
+      "S": {
+        "t": "1 8 n 0Z 65, 66, Y 2o, 0k 1z 8M 7 0 Dr, b 9D 06 C 8Z 7 0 8z."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0b 5, k fT fu fU m b fv."
+      },
+      "2TR": {
+        "t": "U FK Fl H FL F a 4h."
+      },
+      "2DE": {
+        "t": "B a p n 2t fP, G 5 I c 3G 1v fq fQ."
+      },
+      "S": {
+        "t": "0M 1 8 1U 0b DR Y b 67 i 0 5U 2 A 5B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R fV fw fW 8a 1 S fx fX f 4 - 2Y fy - 0 0t fY fz fZ."
+      },
+      "2TR": {
+        "t": "Fm X FM Fn FN p, Fo FO 4H, 4i Fp, 4I FP Fq."
+      },
+      "2DE": {
+        "t": "s 3h 9w fr 0C fR 8 2 31, 4 E fs fS 0g – 1O 0B i – 0 5 6G i g 0G 4i."
+      },
+      "S": {
+        "t": "U d 7 A 2i 68 Ds 2 5 9e, DS c Dt 1f—30 0G p—4 b 69 0O R C 4g."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“1R h F0” 7."
+      },
+      "2TR": {
+        "t": "'0j FQ Fr' 5."
+      },
+      "2DE": {
+        "t": "\"2J D q 2M“, f 5."
+      },
+      "S": {
+        "t": "“'43 B C j,' E b."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C 8A 2, P, D 0f, s 4O F1 F2 F3."
+      },
+      "2TR": {
+        "t": "4 r, J P 0 FR Fs FS 4j."
+      },
+      "2DE": {
+        "t": "B 6h, 3 7, 05 02, A 8 j ft fT fu 3H."
+      },
+      "S": {
+        "t": "1 3V 9, G. 05, 3 DT a 06 9E 82 7r."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "4p s F4 c 4P F5”."
+      },
+      "2TR": {
+        "t": "'2q J Ft y 6U FT.'"
+      },
+      "2DE": {
+        "t": "B 0I 1O fU 9u, 1Q 7 b 21."
+      },
+      "S": {
+        "t": "1 j 7X 30 6a 9 02 o.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“C H F6 8b 5u 0 2u F7 8 M F8 k F9 4q Fa 2z l 2Z."
+      },
+      "2TR": {
+        "t": "\"Fu FU Fv FV 1 0U Fw 0B 0l 3c 82 H FW 63 Fx 83 FX."
+      },
+      "2DE": {
+        "t": "\"B 9W t 0Q, A fv, 0 7 1e d q 6H 9x, G 1 9X, 3 5 I – E 3r fV – J 9y 45 9Y K.“"
+      },
+      "S": {
+        "t": "“1 Du 6A 3 DU a, 4 9 0c 4G C Dv Y 1 0I 6, c v DV, b d 1n m A 5s 3 i."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 8B 8c K FA, 30, Fb FB 1 0D 4 0 c 0d 4Q 8 Fc 8C FC Fd 4r B k FD 1f."
+      },
+      "2TR": {
+        "t": "Fy FY, Fz, 4J 4k, FZ 84 0 2D. 85 3b 86, 4K g0 g1 0 4D H g2 0L."
+      },
+      "2DE": {
+        "t": "s a 9 fw 46, fW O E 9z 9Z, 0 G 1 6 0b fx, 3a 1 V fX fy 11, 4 t E R fY 6i fz."
+      },
+      "S": {
+        "t": "U 8 5 Dw 0a, DW P, c 9f 9F, 4 Y 1 1H Z D K 1 0I A Dx 9g 1b DX y i c O 9G 6b."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Fe FE Ff n FF Fg 8d; 04 5, 8D 8e 2, e 1 FG Fh 4R 1 6n o, FH Fi FI 0 2d h Fj b 3n 1 00 G FJ 0 Fk 3n FK Fl 0F o 0r p."
+      },
+      "2TR": {
+        "t": "g3 g4 g5 n g6 g7; b 3j D 1 1Z 0V 61 0q, 87 1 g8 88 2d g9, L M Q 6 1r 0 O k ga gA 1 gb 1r gB gc 1m gC gd gD."
+      },
+      "2DE": {
+        "t": "B 0f 0G 1z fZ 2R a0, G 1 4 F0 m 4I 44; p 5 F1, 3 5 5f 1p 0 2R n F2 F3 T, 3 5 0h 3D 8 0S F4 F5 T 0 3 5 2j F I G R U F6 2K O 4f T 0 3 5 d 0Y 1p, 3 J 52 8 F7 F8 J u."
+      },
+      "S": {
+        "t": "1 V 27 38 C 0h Dy H 1 1J 0 7S 2 0 j; Q b 3p 6 b 8 5 5C c 27 0P DY 53, 6 b d 37 C 3b 7 A Dz, 4 6 b d 3Q 3B 2 i H 5 n DZ 0E P, 4 8 9h 6 A 54 k l 7 e0 2k."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "8E 2, c 0J FL 4r l Fm."
+      },
+      "2TR": {
+        "t": "0z, ge 0g gE gf."
+      },
+      "2DE": {
+        "t": "a1 0f 1 0G 6I 0J F9."
+      },
+      "S": {
+        "t": "9H 1F, 1 V 0e e1 X C e2."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "FM 4O Fn FN, Fo 0 FO 1G Fp FP."
+      },
+      "2TR": {
+        "t": "gF gg 1R gG gh s gH, gi 1 gI 7j."
+      },
+      "2DE": {
+        "t": "X 2M S Fa FA, Fb 0 F 0w FB Fc."
+      },
+      "S": {
+        "t": "N j 8 e3 5e, e4, 4 e5 z C e6."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g 45 Fq 0 3 FQ, 0r 0Z G, 4s Fr."
+      },
+      "2TR": {
+        "t": "gj gJ 2 gk, 2 gK A, F z A 68 c, gl 0f."
+      },
+      "2DE": {
+        "t": "X D A g H 8W 8z, 0 0t FC 0B, k 1 2c Fd T, 2 FD."
+      },
+      "S": {
+        "t": "1j B a R 0 8H 3n, 4 2g e7, H 1 e 3p, p 0 6B 9i."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E x 03 L k FR 2, 1 4d 8f f - Fs FS, Ft 0R, FT 0R, Fu 0 FU - 0t 1E 0 Fv FV."
+      },
+      "2TR": {
+        "t": "4 q R F I H gL 1 gm gM 0 89 gn (gN go gO, gp gP, gq, 8a gQ.) gr 4l."
+      },
+      "2DE": {
+        "t": "05 0q y Fe I FE E, 3 A j 5Z F a2 a3 – Ff, FF, Fg, a4 0 FG –, 4 1 Fh FH 0 a5 Fi."
+      },
+      "S": {
+        "t": "G. 0S 03 0T e8 i 6 r t 5 5Q 2 4h—9I e9, ea, eA, 9j, 4 o eb—f a 8 eB 6 1 0g 0A 4 9J."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, i I 8F Fw a FW Fx FX 7 0 Fy 2, 0u 0C 4G FY 8g Fz FZ g0 0 g1 g2 g3."
+      },
+      "2TR": {
+        "t": "1s f 4L 4m 7 gR gs 7w 4l 1 E 0a 3Z gS gt gT A gu 1 8A 4L gU 1K 1C."
+      },
+      "2DE": {
+        "t": "s f, 5 0I 0M FI 0R, 12 4 3Y 3e a6 1p, 0 Fj t FJ, n 1x a7 4D 6 0b 0A 0F 6 4j, b 2M a8 0 4 3e 6 Fk."
+      },
+      "S": {
+        "t": "U E 6 A 3D k h l ec 1c 0 2b 1Z 8 9k, 4 b eC i 3 13 X 3 A 1B D 0B 6 0K, ed 0 j c i, 4 3 eD 9K."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g4 g5, 8G, i I 8F g6 a g7 3 1s 0S 1 1M g8."
+      },
+      "2TR": {
+        "t": "gv 4M, M f 4L 4m 7 gV gw 2 gW 08 0N gx gX."
+      },
+      "2DE": {
+        "t": "FK a9, q aa, 2e 82 6 3i 3D 0d 4 56, 12 0v a6 D."
+      },
+      "S": {
+        "t": "ee, C 9l, h S 58 3 M 3b 0k 0 2d 1c 6c B 9k."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "8h 1A 9 08 1 g9 0v ga”."
+      },
+      "2TR": {
+        "t": "'0x 4n W 0 gy s gY.'"
+      },
+      "2DE": {
+        "t": "36 0o A G 3R aA v i Fl."
+      },
+      "S": {
+        "t": "5j j 6C a H 5 0a 9L I 0O.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 3 4S b gA 4 0 t gb 1M 7V gB p."
+      },
+      "2TR": {
+        "t": "B gz 6 gZ 1C 1 H G0 2E G1."
+      },
+      "2DE": {
+        "t": "s ab 8 0j FL U 2n 0 1r t A 0b Fm FM."
+      },
+      "S": {
+        "t": "U 8 n eE y g 1Q, 4 0R i 9m a ef."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“gc l 2Z, T 6, c 8 31 l gC i 1m 1 1X gd V 9 gD ge."
+      },
+      "2TR": {
+        "t": "\"4 3, 83 G2 c, G3 G4 1d 0 0X G5 c 0 G6 0v."
+      },
+      "2DE": {
+        "t": "\"7 1e d 9x, Q. e, 3 1 C 8 2 Fn a, 0b aB 9t, 8P 5 t 4J 0N.“"
+      },
+      "S": {
+        "t": "“09 0c 4G, G. F, 6 1 8 h 7 5 eF 3 9a K 1S 6 b 1Y 10."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, h gE 4 0 h M gf i 1 4S 8 gF 4t gg 4."
+      },
+      "2TR": {
+        "t": "1S L G7 1 L 0o G8 e M G9 1M Ga."
+      },
+      "2DE": {
+        "t": "s a q FN, 0 q Fo 7x a A, V FO 8 6j ac 6 Fp."
+      },
+      "S": {
+        "t": "U 8 C eg, 4 m C eG 8 3 9M X A eh 7 42 9n."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6W y A gG 8H gh 2, gH 4T gi f 0 F a gI gj 5X 2N 0j."
+      },
+      "2TR": {
+        "t": "B 81 4N 0 8b GA 1 0G 0 Gb D, d 7 0S GB Gc GC."
+      },
+      "2DE": {
+        "t": "aC ad 1 9 aD 0A 6J, N FP, 3 1 ae aE 6 Fq 1H 0 A I 5X 1p, j FQ Fr 6 2w, k 4e 1 4j u."
+      },
+      "S": {
+        "t": "1 9N 5 9o 4E, 66, 3 0u 6 1 d 35 2K R 2i, 4 6 a 8 8N I i 3 0u 0l 1R 1 1Y l."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E 03 k 7 2, 5, gJ 1x 8i 4u gk, z 5, 3 gK 1g 1y gl 09."
+      },
+      "2TR": {
+        "t": "4 R H, E Gd z 4N GD, 8B 8c 01 Ge 8C 0B GE Gf GF."
+      },
+      "2DE": {
+        "t": "05 y K I af, 3 5 d 8F u, 09 1 N FR 4H E 0b 6 4D Fs u, 14 5 6k C 07 0z FS 0A 6J 4j u."
+      },
+      "S": {
+        "t": "G. 03 d 67 i 6 b k 1C i 3 e 9O c K D 9p, H b 1Y h l 4E 0w 6 3c."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "8I 8 gL gm 1 a 80 gM 0 0d gn a 3X 4U gN."
+      },
+      "2TR": {
+        "t": "3d Gg GG 00 Gh 1 4N GH 1Z 4g Gi 8d."
+      },
+      "2DE": {
+        "t": "B K Ft 19 9s, J 1K 6 0R, 0 A a 8C 4k FT, G 1 A aF."
+      },
+      "S": {
+        "t": "1 d v 98 7 9P A 1B, 3r, 4 a 8 56 6d 0w 1 9q a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C H go...”"
+      },
+      "2TR": {
+        "t": "1D 8D—”"
+      },
+      "2DE": {
+        "t": "B T P 2k –“"
+      },
+      "S": {
+        "t": "1 0I K—”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"0U 3z!\" 6 7."
+      },
+      "2TR": {
+        "t": "\"N 4e!\" 5 3."
+      },
+      "2DE": {
+        "t": "\"6d 3y!“, f e."
+      },
+      "S": {
+        "t": "“96 2H!” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"gO 0z gp?\""
+      },
+      "2TR": {
+        "t": "\"GI 18 8e?\""
+      },
+      "2DE": {
+        "t": "\"Fu w 4 1t 66?“"
+      },
+      "S": {
+        "t": "“eH 3S 0 2y?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"gP 8j 8J, 4v, 8 32 gq 4.\""
+      },
+      "2TR": {
+        "t": "\"1t e 8E i Gj 8f 0 8F.\""
+      },
+      "2DE": {
+        "t": "\"3F 6K FU Fv, 4, ag 1 l, V 22 a.“"
+      },
+      "S": {
+        "t": "“0i ei 6D, W 8, 1 9Q, A 20.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"0O 33 02 2, gQ gr 5 4?\""
+      },
+      "2TR": {
+        "t": "\"0c 0m GJ Gk a GK?\""
+      },
+      "2DE": {
+        "t": "\"0T i a A FV, 4 2y 2i Fw?“"
+      },
+      "S": {
+        "t": "“17 a 8 0m, 1 9r, W 7y M 0U?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"gR\" 7 0f."
+      },
+      "2TR": {
+        "t": "\"Gl,\" 5 r."
+      },
+      "2DE": {
+        "t": "\"FW“, f 02."
+      },
+      "S": {
+        "t": "“eI,” E 05."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"gs 4V 1l 4V.\""
+      },
+      "2TR": {
+        "t": "\"4o 2M 8g.\""
+      },
+      "2DE": {
+        "t": "\"6l 34 Fx.“"
+      },
+      "S": {
+        "t": "“ej eJ.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0f gS gt gT 0 L gu 1l p:—"
+      },
+      "2TR": {
+        "t": "r GL Gm GM 1 I 8G 2M 1C:—"
+      },
+      "2DE": {
+        "t": "02 FX d 4 Fy FY 0 6L 3d E 0S Fz 6m:"
+      },
+      "S": {
+        "t": "05 ek A eK el 4 0T 9R A 8J:—"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“g 8J t gU 8i gv gV 8k 1c 8K."
+      },
+      "2TR": {
+        "t": "\"B 8F 02 2Q 2r 4O, x Gn 0 8B GN Go."
+      },
+      "2DE": {
+        "t": "\"FZ 6K 23 t 8 9 6M, 1W 9 g0 g1 g2 a.“"
+      },
+      "S": {
+        "t": "“1 8 eL z g 6D 06 5 6e, 1l 5 em 9O 8 69 X."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "8l L D x 03 t 2o 8L K 0N 1c gw."
+      },
+      "2TR": {
+        "t": "2p I 4 q R 02 0A 2r 4O; 0A 0T 21 0 GO p."
+      },
+      "2DE": {
+        "t": "6n 23 t 05 0q y 8 J 3b, 8 H 9 g3 aG 3I."
+      },
+      "S": {
+        "t": "eM G. 0S 03 4H i 06 A 2l, 7 f r 5q 5 90 49."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g, 5, 1 b 0R gW 4w, 06 2T gx."
+      },
+      "2TR": {
+        "t": "0x 8e 1 Gp 0 GP Gq 4p, GQ 0B Gr."
+      },
+      "2DE": {
+        "t": "s 87 4 1t 0 ah L 8h 2Y 5y, 4 Y g4 g5."
+      },
+      "S": {
+        "t": "1j b 3S 4 3e X 5 en 2 4h, f u 3E 0r 3a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "gX 07 2M 1 B 2M X 1v 4."
+      },
+      "2TR": {
+        "t": "GR Gs 01 2g 0 1p 2g j GS."
+      },
+      "2DE": {
+        "t": "36 0g 6N aH 0 g6 4H g7."
+      },
+      "S": {
+        "t": "q 8 4i eN 4 8m Y u 5e."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "gy p 2, gY 1Y gz."
+      },
+      "2TR": {
+        "t": "Gt 8h GT 4P 4l."
+      },
+      "2DE": {
+        "t": "s g8, 3 Y 4 22 C g9 ga."
+      },
+      "S": {
+        "t": "U eo 6 u 0H h eO 0 20."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, M 3 07 0X 2p K n 7p gZ t 8K."
+      },
+      "2TR": {
+        "t": "4q, E Gu 2d 0k i 7L GU 1e 4p.”"
+      },
+      "2DE": {
+        "t": "s 23 t 0Z J 6o gA 5I, b 4 3Y 1J 5z gb K.“"
+      },
+      "S": {
+        "t": "U 3Z i X 3f A 0h 8U 3F, f d L 1m m g 0d.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"G0 1z 4?\" 6 8m."
+      },
+      "2TR": {
+        "t": "\"Gv 0k 2R?\" o 8H 3."
+      },
+      "2DE": {
+        "t": "\"gB 4 ai aI?“, 4K e."
+      },
+      "S": {
+        "t": "“9s 0 9S 1D?” 9t F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“G1 G2, J 8M 2, 3, 0J 4U 4."
+      },
+      "2TR": {
+        "t": "\"GV 8i b 0m w 8I Gw."
+      },
+      "2DE": {
+        "t": "\"B 04 A C E aj 2I, p 1 0u, 3 A 3s 2g gc gC a.“"
+      },
+      "S": {
+        "t": "“1 j h l 1d, Q 1 38 6 a 8 0e 63 1D."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0c, 8n G3 G4 9 H 0p 4W G5 G6."
+      },
+      "2TR": {
+        "t": "v, 8j 6T 8 m 04 6c GW Gx."
+      },
+      "2DE": {
+        "t": "1b, 1 gd t, k 5 A aJ w, N b 4l gD."
+      },
+      "S": {
+        "t": "1E, 1 6E 0l b ep a Z 7 6f 3 eP 1m 0 3F."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "G7 1Z 34 0 7: “G8, G9; 0B 4x b I Ga, GA 0 1p 0Y Gb a GB Gc”."
+      },
+      "2TR": {
+        "t": "GX Gy 1 E a, 'GY t, 4M; Gz 4Q F GZ h0 1 11 8J h1 7 8k h2,' 5."
+      },
+      "2DE": {
+        "t": "B 0f 0G 1C C 0R, 0 5 f: \"ge 0c, q aa; 1 0I 6O 1G gE n ak 0V, 0 1 0I 3i 1C gf, 12 0H gF, N P gg.“"
+      },
+      "S": {
+        "t": "1 V h 0q C 14, 4 b E, 'eq 3D, C 9l; 1 2O 0A 5 16 6F 2 9 0n, 1 6g, 4 1 j 6C M 14 1c 9 13 0z 3 eQ a.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C H 0A, 8L 2p, GC 0T Gd 19 20 4X."
+      },
+      "2TR": {
+        "t": "1D x, h3 0k, h4 0f 8K h5 a 8l 0I h6."
+      },
+      "2DE": {
+        "t": "B 1r P 2B 1R, c aG 5z, 4 1S 8 aK g H 4i."
+      },
+      "S": {
+        "t": "1 1n K r, 0 49 1m, 4 0 0j 0R Z 7 9T y 0 4g."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E a 2P 4 2, GD Ge 34, 0d y A 8N GE Gf 8o 0 u 3 4k GF 7U a e F 8d.”"
+      },
+      "2TR": {
+        "t": "1S 7 0S 8L C 2s h7, 2 2S h8 h9 ha hA 1 hb 2 4c 49 hB 7 g f 80.\""
+      },
+      "2DE": {
+        "t": "M a 0x r 4e, 3 1 C 1D 0A 2L gG 0f, al aL 1 4 1B o gh gH 0 3E 12 13 39 0c am, G 1 F 0j aM 1s 44.“"
+      },
+      "S": {
+        "t": "q 8 o 1R 6 1 V h 1g 0z 3 2n, o 1 9u 0 0K D 0 er eR, 4 1 1A 0J 0b 1c 1 1J 2 g 8y 2d 7 0 0t.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“2y Gg GG Gh, T 6? 7 3 4i GH 41 Gi 21 0W 4W GI d."
+      },
+      "2TR": {
+        "t": "\"4 3, 8m hc 0C 0 f G 1T?\" 5 9, 2 1O 2m hC 8M hd 0 j 0w hD."
+      },
+      "2DE": {
+        "t": "\"gi A n 08, 03 7 6b an, Q. e?“, f h, 2s gI d 1Q 0z 9l gj 9- 0D 9T aJ 1A."
+      },
+      "S": {
+        "t": "“es 0b 6 9 k 1C 3 10, G. F?” E J, 7i eS d 2A Z 0y 08 9b 4I g 5y et."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"C 7T 7u a 0j.\""
+      },
+      "2TR": {
+        "t": "\"2s he hE.\""
+      },
+      "2DE": {
+        "t": "\"gJ 09 1 8 2L aN 0E.“"
+      },
+      "S": {
+        "t": "“6G 1c 1 e L 3 2n.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"35 Gj 8O GJ\" 7 d."
+      },
+      "2TR": {
+        "t": "\"1u 1T hf?\" 5 9."
+      },
+      "2DE": {
+        "t": "\"7 0G 0A 0F“, f h."
+      },
+      "S": {
+        "t": "“09 6h 3 0B,” E J."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"4y, 8p; 0w 2, c s 8O Gk\" 7 6, 6y 8P B."
+      },
+      "2TR": {
+        "t": "\"hF, 8n; 8N 8o 0e hg,\" 5 3, 7c 0 8O."
+      },
+      "2DE": {
+        "t": "\"6p 0X, ao T 1 aO b gk“, f e E 0e gK 6P."
+      },
+      "S": {
+        "t": "“6H, 9U; T 1o 6 B 0D 1 0H e 7w,” E F, c A eT 3m."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "d, GK G 5x 8 Gl 8q GL 4Y 36 Gm m b GM B Gn."
+      },
+      "2TR": {
+        "t": "9, 4r 28 hG 6 F 1h hh, hH c hi, 2t hI hj 8p 0Z hJ hk."
+      },
+      "2DE": {
+        "t": "h K 0Z 1D gl, G 5 ap 2N, gL, 3 J gm 6q 0K b gM 0f, 03 v P gn a."
+      },
+      "S": {
+        "t": "J d eu z 0b eU 1i b k 9v 3 9V 6 6 ev 3o V 9w 3f 6 f 8 eV 3 K."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R 1S GN Go 1f."
+      },
+      "2TR": {
+        "t": "hK 8P hl 0L."
+      },
+      "2DE": {
+        "t": "B 3a, k 5 0G aP aq gN."
+      },
+      "S": {
+        "t": "1 5Z K 2p 9W D C 9x."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"1F 2, Z 5t 1 1M 8Q GO, D 0i 6\" 7."
+      },
+      "2TR": {
+        "t": "\"1t hL 00 hm 4j 4 0D 3,\" 5."
+      },
+      "2DE": {
+        "t": "\"B 0u, 1 6h aQ 9 2o ar E 00 go, Q. 1F e“, f 5."
+      },
+      "S": {
+        "t": "“1 0C 1 0g 1C 3 e 5 58 c 9 9X, G. 1G F,” E b."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"0B, D 0f, X 37 Gp GP 0 Gq GQ 1 Gr 8r.\""
+      },
+      "2TR": {
+        "t": "\"4 r, 09 2a 4B j 05 hM G 1 hn hN 0 ho hO.\""
+      },
+      "2DE": {
+        "t": "\"Z, Q. 02, 0W 2D 1o aR l 2 1t 0 9 gO as.“"
+      },
+      "S": {
+        "t": "“1T, G. 05, 0L 2 C 3g p D 0 2y 4 r B 5 ew 8F.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "8R 00 2V 7y 0 0l 4z 1 GR 8s Gs GS."
+      },
+      "2TR": {
+        "t": "4R O k 4C 4d 1 0i 0M 0 hp 5P hP I hq 23."
+      },
+      "2DE": {
+        "t": "0i 8d 4L O 9q d 0 aS E R 3W gp 5o g z c 5a."
+      },
+      "S": {
+        "t": "N 9y 0E P eW, 4 c 5 0v ex 5h D 01 9D w 0 11."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Gt H GT Gu, 04 d 4Z."
+      },
+      "2TR": {
+        "t": "hQ m hr 7 hR, 0g 9 hs."
+      },
+      "2DE": {
+        "t": "0a gP gq P 13 gQ, h at 1i 1R."
+      },
+      "S": {
+        "t": "N eX ey K 3 0 eY, Q J 9Y."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "6 8S 4s GU 8t 0e Gv 6v 0 GV q 1S 0K."
+      },
+      "2TR": {
+        "t": "3, 8q hS ht hT hu 5z, 6Q K 0 3Q 4n 29."
+      },
+      "2DE": {
+        "t": "e K 4 aT, 4 c gr m 4I gR, 2g 31 gs 0 5Q i E gS 5r o 1I."
+      },
+      "S": {
+        "t": "F d 5G Z 0 ez f 6i 0 6B 9i 2 0 j, 4 8 55 D 0O c 0 eZ 44 y A 0s."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"g Gw 2u 8T f, d, r 0P?\" 7 0 0t 3O."
+      },
+      "2TR": {
+        "t": "\"9, E hU 0U 8Q G, t S?\" 5 1 4I 6i."
+      },
+      "2DE": {
+        "t": "\"5F 2O A 19 6Q 6 0j au, h, C 24?“, f 5 0 8f i N."
+      },
+      "S": {
+        "t": "“0X p v 1w 0k 6 9z, J, p r h?” E b, 7x 0O 0r."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "GW 8u 1 4r B 8U 0K."
+      },
+      "2TR": {
+        "t": "hv, hV 0 4D 4n 1i."
+      },
+      "2DE": {
+        "t": "0i gt 3U i E R gT 6i l."
+      },
+      "S": {
+        "t": "N 9Z 1H D 0O c 5 E0 6b."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“C 50 1 S Gx 8v 2J, 2Y 0H GX Gy GY, 21 0T 51."
+      },
+      "2TR": {
+        "t": "\"8r X 8R hw, 4s hW hx 1 7B 0 j 8R a."
+      },
+      "2DE": {
+        "t": "\"B 04 4 aU 2o gu av, 0 0t 1O 8 2 7S 2 aV 3V, 0 9 0D 0W 1x 1X.“"
+      },
+      "S": {
+        "t": "“1 0c 1J 0 2M 2G E1, 4 2g 7 0 E2 2 0 a0 8c, 4 S 08 0L D 0 1L."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Gz GZ a 52” 7, “J h0 38 b h1 0 0x 53 f 2, c H e 8v 18”."
+      },
+      "2TR": {
+        "t": "\"hX 1U 7 2T,\" 5; \"b hy hY 6 V, 0Y 2u 0V hz.\""
+      },
+      "2DE": {
+        "t": "\"0a 0B aw“, f 5; \"p 2 91 gU D U gv, 0 l 2m gV 04 1 P 6r C av.“"
+      },
+      "S": {
+        "t": "E3 p H 1p H 4j,” E b; “Q 0 1f 7 4i B n 4J, 4 r p 1z E4 1l 1 5S 1J a D m.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"8l F 8V?\" 6 7."
+      },
+      "2TR": {
+        "t": "\"8s d hZ?\" 5 3."
+      },
+      "2DE": {
+        "t": "\"1E 6R 7 1d?“, 4K e."
+      },
+      "S": {
+        "t": "“21 02 9 0W 2 6?” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"j, h2 0m F 8V?\""
+      },
+      "2TR": {
+        "t": "\"06, H0 d 4S?\""
+      },
+      "2DE": {
+        "t": "\"Z, 03 6R gw 1d?“"
+      },
+      "S": {
+        "t": "“04, 0D 02 a1 0W 2 a?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“0U h3 h4; Y 38 h5, 1D 38 h6 0 h7 h8 h9 b 1D ha hA 0h."
+      },
+      "2TR": {
+        "t": "\"H1 8M 8S; 07 1U H2, V 1U H3, 6 V 1U 1g H4 7T H5 H6 2G."
+      },
+      "2DE": {
+        "t": "\"gW A 8 R 6c gx S; 4 aW 6s ax gX gy, 4 aX 6s gY 0 4 U aX 6s 0d gz ay.“"
+      },
+      "S": {
+        "t": "“1v a 8 E5 7 5 5z; 0 16 1f E6 E7, 0 4J 1f a2, 4 0 n 4J 1f a3 0r 1w."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "hb hB 2D 39 4a hc hC hd hD he, z q 1 hE hf hF N e 1 54 hg 3 a 6d hG 0M hh."
+      },
+      "2TR": {
+        "t": "H7 0 H8, 16 0 8t H9 0I Ha 0p HA, Y K 0 Hb 0p HB i g 2u 2 7 6A 0 89 8T Hc."
+      },
+      "2DE": {
+        "t": "1h gZ G0 u 9n 6S, 3 3j g 0O G1 G2 S, 14 G3 2b 8 G4 G5 0O G6 j r 88 G7 F G8 4m 3C."
+      },
+      "S": {
+        "t": "0i 7K 4x k E8 D 0y 6 g 8 6I Z R 5 a4 a5, 26 E9 3M 7 0 Ea EA 2 5 1h 7h V r l o Eb 5 EB 2 1w."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "3a hH 8S hi B 3A o hI hj, 5 1n hJ hk 4 0 5s B 1I hK 1v 0J 1 0W 8w."
+      },
+      "2TR": {
+        "t": "4t HC 1v Hd HD He, HE Hf HF 1 1y 1p 1F 3p 2K w 0 0w 8u.”"
+      },
+      "2DE": {
+        "t": "8Z 2 G9, 3 5 V aY az E H Ga m 4I aL, 6t A d 0L H 6c N L GA, 2 6N 0F 0 28 5P 0J 3J 3h.“"
+      },
+      "S": {
+        "t": "Ec 6 A 2b a6 8 a7 7 EC Z 0 j, 0T 0 5z 8 O a8, 0e Ed 0y 4i 0B 4 1r 5i.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "d hl 55."
+      },
+      "2TR": {
+        "t": "9 Hg 2U."
+      },
+      "2DE": {
+        "t": "h 6T 6 aZ."
+      },
+      "S": {
+        "t": "J a9 3 6j."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“hL 3A 8W hm h 9 hM 2j b hn, T 6” 7."
+      },
+      "2TR": {
+        "t": "\"4 3, HG Hh L 8 6 1h HH,\" 5."
+      },
+      "2DE": {
+        "t": "\"7 0B I 6 4w, 09 7 Gb, 0d 6u 6 3k, Q. e“, f 5."
+      },
+      "S": {
+        "t": "“09 p 3G 2S I i Y 9 aa 3 1g R M 6J, G. F,” E b."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"g 56 0p hN 0h?\""
+      },
+      "2TR": {
+        "t": "\"4T Hi d 8U G?\""
+      },
+      "2DE": {
+        "t": "\"GB 4M w b v c 0k?“"
+      },
+      "S": {
+        "t": "“aA 6k g ED R 0 0f?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“j, 3, 1U ho 5 2A hO 2, 57 x 03 1G 0V n hp 3b 4f."
+      },
+      "2TR": {
+        "t": "\"v, 2 8v O T HI Hj, HJ 1v q R 1R 0J 4u Hk 8K."
+      },
+      "2DE": {
+        "t": "\"Z, A Gc 4 5j m 2K 2p GC, G 3 b 2M 20 F 0q y g 0S az A0 S.“"
+      },
+      "S": {
+        "t": "“04, a Ee 0 0E 2J 5E 3 0 EE 6 0 j 8 6I Z z 0S 03 7 A a6 2o."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "hP, r 0P? - 58 3 a 4T hq 3 a hQ 0k 3b hr."
+      },
+      "2TR": {
+        "t": "HK C, 0 k 2 7 0G 0 Hl 2 7 HL 0 l Hm 8V."
+      },
+      "2DE": {
+        "t": "M D Gd – C 24? –, 3 9 O 9 r GD au g r Ge 5c 6U."
+      },
+      "S": {
+        "t": "q B 6K—B a h?—6 5 P 0g 6l Z o 35 5 9z 7 o Ef 5 2X."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "hR 8e 2, 5, 39 5 a A 3B hs hS ht."
+      },
+      "2TR": {
+        "t": "B, e 16 8w HM 6 0G 8W Hn 8x."
+      },
+      "2DE": {
+        "t": "M 6v 2n GE, 3 5 2 Gf 0M 1g GF 4M Gg."
+      },
+      "S": {
+        "t": "q EF 6 b 0Y h 0C a 8 6L 3 l 2 0Z 4k ab."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "1Q 8x e 07 hT 59 hu 1 57 3b hU, s l 2K.”"
+      },
+      "2TR": {
+        "t": "N k, HN 8X 8y Ho 0 1v HO, J 8X 0 l Hp.”"
+      },
+      "2DE": {
+        "t": "1j 9 O 9 2M GG, F H 5 C Gh, 3 A 6V GH 0s, 04 5 3j 21.“"
+      },
+      "S": {
+        "t": "1I 5 P 6m Z 5 j f b 0Y h Eg 4K 3 l EG b 1Y 02 a o.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"j, 5, 3c 2x 8X hv A 3b p\" 7 d."
+      },
+      "2TR": {
+        "t": "\"7x 4f n 8Y HP a Hq,\" 5 9."
+      },
+      "2DE": {
+        "t": "\"Z 0X, 5 w d A1 J 6o Gi GI“, f h."
+      },
+      "S": {
+        "t": "“04, b 6m Z A 0h Eh D 0 3d 0d,” E J."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"4y, 1p Q 8y?\""
+      },
+      "2TR": {
+        "t": "\"8z S 4S?\""
+      },
+      "2DE": {
+        "t": "\"6p, 0G 7?“"
+      },
+      "S": {
+        "t": "“6H, 9 0C o?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"4p 0P?\""
+      },
+      "2TR": {
+        "t": "\"2q 0d t 2v?\""
+      },
+      "2DE": {
+        "t": "\"A2 24?“"
+      },
+      "S": {
+        "t": "“aB 9?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"j, 3 4C 8Y; J 1s 0a k 1h 0j.\""
+      },
+      "2TR": {
+        "t": "\"0z 1V; b 4U 8v L 8 2T t.\""
+      },
+      "2DE": {
+        "t": "\"Z 0X, b D Gj 4m; I D 2 0k p n C 0y 1P.“"
+      },
+      "S": {
+        "t": "“04, a B EH 3h; Q 0 0f B h 1p 3 i 0Q.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“hV 0j?"
+      },
+      "2TR": {
+        "t": "\"HQ 1T?"
+      },
+      "2DE": {
+        "t": "\"A2 1P?“"
+      },
+      "S": {
+        "t": "“6G 1p?"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "j, 3 1h hw, F 1h 0M 09?"
+      },
+      "2TR": {
+        "t": "06, 0H 2 2T 8Z, d 2T 0W?"
+      },
+      "2DE": {
+        "t": "Z, 09 b C 1P D, 03 0N 3d 1P J?"
+      },
+      "S": {
+        "t": "04, x 6 Ei 1p, 0D EI l 1p?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "1R 1 00, 5a hW 2, 2q 1 8j 3C hx, hX hy 22."
+      },
+      "2TR": {
+        "t": "0j 4v 8f 0 T Hr 0f 0 HR 2t 4V Hs O 0 k."
+      },
+      "2DE": {
+        "t": "2J D 9 2T O, 2 4n GJ, 3 5 9 45 A3 0s, 09 9 Gk GK O Gl."
+      },
+      "S": {
+        "t": "43 B 5 0E P W Ej 3H 6 x 5 5t ac P EJ b j aC 3 5 Ek."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E F 0h?"
+      },
+      "2TR": {
+        "t": "1S d HS?"
+      },
+      "2DE": {
+        "t": "1E 9r 5 GL?"
+      },
+      "S": {
+        "t": "21 6k b 02?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, e hY e F hz, J 0u 0C hZ 1E 9 2Q H0 B H1 H2 8t 0h; H3 3d N 23 H4 H5 a 8r, L 1 3C 7O H6 H 8z, H7 0G 8Z H8 0 H9 Ha HA Hb."
+      },
+      "2TR": {
+        "t": "Ht 0 f HT, b E 0a Hu 2V 8 0 HU Hv 1e 90 HV; Hw 0N 91 HW 4m 7 Hx, I 0 T 2k HX m 92, Hy 0u 93 HY 1 Hz HZ i0."
+      },
+      "2DE": {
+        "t": "s 9U A4 08, p 5 Gm, 2f R GM n 8 Gn 1B W GN 6 Go; 5 as, 12 4 6w 2P 6W o 1K o 5Y D, 0 3d 6x 5 P 8 2 GO 0C 9C, Gp V 2l o 1l 0 GP 6 R Gq 9L."
+      },
+      "S": {
+        "t": "U EK 0J 3 El, Q b EL 6 b 2O 1a X R v Em 3 0A A 1e 6 0K; b EM 1c 0 0e 12 2L 7 0 1B B 7 5P, 4 0T 7 0 En 2 5 2J 11 b EN K, Eo A 1M 7 0 1X, 4 ad 3 5 EO 8X."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "HB 0 Hc 1u 4e b HC."
+      },
+      "2TR": {
+        "t": "i1 1 i2 1A 1o 3x 6 36."
+      },
+      "2DE": {
+        "t": "0a 60 o 1L 0 0K g H 1C 0B U GQ."
+      },
+      "S": {
+        "t": "N aD 7 0 11 4 2C R 0 14 p n 4a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0q 33 2, 5, n 90 Hd 1 2R G 2z 0h 0 91 HD 2, He HE, 8 8X Hf M 7r HF – Hg 0d 2B 0e 2r."
+      },
+      "2TR": {
+        "t": "94 6z i3 i4 95 1 i5 i6 0f 8Y i7 0l 2i i8 i9; 2 2H A 0 ia iA m 2f 2G 75."
+      },
+      "2DE": {
+        "t": "M D 6X, 3 5 d J 1c G Gr GR 0 Gs, 3, 09 2 A5 GS u, 0m 1Y 2 2F 1v Gt A6 2a – 1Y, 4 x GT 3G g P 32 A7 37."
+      },
+      "S": {
+        "t": "q B ae 6 b Ep A 0x 3 l 5 EP S, 4 Eq 6 x 0 1M t 8o a k 4C m 36 2 0 EQ 2 A 4X—36 f I v 4l 0H e Er 3 K."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "3a 2Y 1h 0P?”"
+      },
+      "2TR": {
+        "t": "4t 39 4w 37 t S?”"
+      },
+      "2DE": {
+        "t": "6y b C 0v 6Y?"
+      },
+      "S": {
+        "t": "aE m g h 3w?”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“1r r 2H 2, h Y 92, b HG 1 Hh 3D” 7 6."
+      },
+      "2TR": {
+        "t": "\"2w 9, H 00 1h ib 96,\" 5 3."
+      },
+      "2DE": {
+        "t": "\"3K 1f h, b A8 I 9 1T 6 6Y“, f e."
+      },
+      "S": {
+        "t": "“q ER i, C 16 J, H 1K 2N 5 Es 3G 3w,” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“4p N q HH Hi 3Y HI, J 1 Hj 11 3 1U HJ Hk HK, 90 Hl 9 57 HL L 8N Hm?"
+      },
+      "2TR": {
+        "t": "\"iB K ic 4W iC A id; b 0 3f 8 6k 2 O T 1M iD, ie iE 8 8q if 97 0p iF 1T 98?"
+      },
+      "2DE": {
+        "t": "\"7 Gu 2y 25 GU Gv 0M GV Gw; p 09 7 d v L 59 8 4 6C 1w 2K 2p GW 6z, 2a 7 Gx 4 1B 0A 2 GX A9, N 2q 1c 6 Gy?“"
+      },
+      "S": {
+        "t": "“09 02 h ES Et 3 M 12 1h ET; Q x 9 V I S 2H 1N Eu 7 0 3A 2 g 0E P, k 9 af 0 n 0K 2x 0 j d L 0R 3 EU M 0x?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "93 2m 1v 3 a 5A HM Hn 0g 94 HN?"
+      },
+      "2TR": {
+        "t": "4x 14 2K 2 7 ig 0 iG ih Z 4a iH 1w?"
+      },
+      "2DE": {
+        "t": "GY A 00 C Gz GZ, L r h0 h1 6N c 3S h2 h3?"
+      },
+      "S": {
+        "t": "aF a h 8p ag 3 9 3 0W o n 4L 5 53 4i 0 0L Ev?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "95 1y 6m Ho, HO 17 3e Hp 1 HP Hq?"
+      },
+      "2TR": {
+        "t": "7W, 4X 99 ii, 0 iI 2b 2W ij 0 iJ 1w 98?"
+      },
+      "2DE": {
+        "t": "Aa 7 al L h4 A9, 0L H 4b D, 3 7 d o 1K h5, 0 0L H 9 h6 7 AA w?"
+      },
+      "S": {
+        "t": "EV, k 9 af O Ew Y 9 p 37 3 l 7 0 1B, Y 5 EW s 4m 9 7?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0O 1T, 2S 2t 9 b HQ Hr, 96 HR Hs 0v n 97 6r HS?"
+      },
+      "2TR": {
+        "t": "0c 0M s, 4y ik 8 K iK il, iL 4Y 99 0 im s n iM in iN?"
+      },
+      "2DE": {
+        "t": "0T 1y, 2a 7 d 4 1g h7 2w, 4 2l 6 h8 0 Ab 2y 1z 1C G AB 5J h9, 3 7 2 5p 0B?"
+      },
+      "S": {
+        "t": "17, 5r, k 9 1V 0 1h Ex 3 EX 0 1M 4 0Q aG M 0h 14 H 5 Ey 6 9 t 0 25?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "5b 2g, d, M Ht b HT 0y”."
+      },
+      "2TR": {
+        "t": "9a 9A 9, 0r io 6 9b 0 iO.\""
+      },
+      "2DE": {
+        "t": "\"ha 7, h, 3 5i 3j U hA D.“"
+      },
+      "S": {
+        "t": "EY, J, 6 m g B n Ez.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“Hu HU, D 6, P A h G Hv 2, 96 HV 8u 4h 0 6l 23 Hw HW 0h."
+      },
+      "2TR": {
+        "t": "\"4 3, ip 9B, 4Y A L 7 07 iP C, 0 9c 35 Q iq 1 iQ 0 T ir 8p iR."
+      },
+      "2DE": {
+        "t": "\"1E c 1C hb, Q. e, 4y 7 5d 2Q k 1, 3 9 hB ak 8 hc hC 0 4Z 8c, 4 9 hd O hD u.“"
+      },
+      "S": {
+        "t": "“2E 3 0 14, G. F, 9 0V H 28 H 1 02 6 5 25 B EZ f0 4 6k 3O f 5 f1 P k f2."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0q 33 2, 6F Hx HX."
+      },
+      "2TR": {
+        "t": "4z 9C 6e 11 is iS."
+      },
+      "2DE": {
+        "t": "s K he 42, 2z 1L hE."
+      },
+      "S": {
+        "t": "U 8 n 6M 5F 3 1a 0z 3 0 11."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "1r Hy 5B 3S N 1 98 99”."
+      },
+      "2TR": {
+        "t": "4q it iT 0C 0 9d iu.\""
+      },
+      "2DE": {
+        "t": "\"hf 7 I j 2P 4N, 4 6 c 6Z Ac.“"
+      },
+      "S": {
+        "t": "f3 i 6n 39 6 k f4 0 3W.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"C 0g b HY 86 9a 5c 6S\" 7 6."
+      },
+      "2TR": {
+        "t": "\"2P iU 4g iv iV,\" 5 3."
+      },
+      "2DE": {
+        "t": "\"B 0N 00 2d hF 9 hg hG 1U“, f e."
+      },
+      "S": {
+        "t": "“1 V n f5 1u 9 f6,” E F."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“Hz, HZ, b 2N 0 9A i0 76 1 I f."
+      },
+      "2TR": {
+        "t": "“iw, 6 1V, 2x iW i 0 f G."
+      },
+      "2DE": {
+        "t": "\"2J D hh 9 U hH 0 70 hi hI.“"
+      },
+      "S": {
+        "t": "“43, I f7, B 5 n 3h 4 6N ae S."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C 0g 6t i1 02."
+      },
+      "2TR": {
+        "t": "0x 4Z ix iX 2X."
+      },
+      "2DE": {
+        "t": "B hj 1k 9 hJ hk 1d."
+      },
+      "S": {
+        "t": "1 0W 9 5 ah 6o 2 a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "i2 3C 2f 9b K 0R 9B."
+      },
+      "2TR": {
+        "t": "iy k, 9D 1r i iY 8x."
+      },
+      "2DE": {
+        "t": "0i hK O hl 2Y, 4 6Y F AC 0B."
+      },
+      "S": {
+        "t": "N ac P B f8 4h f p 2 6O aH."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "i3 1 9c 0t i4 0J 4U 1z K i5 i6."
+      },
+      "2TR": {
+        "t": "iz 9e 0 50 4I iZ, I0 I1 I2 7 0k."
+      },
+      "2DE": {
+        "t": "1h hL 26 hm i 0Z b 4l, 2s ai 0J 4k aI D."
+      },
+      "S": {
+        "t": "0i a3 22 f9 0O 3f 0 3F, 0 9S 2 f B 0e 63 1D."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "i7 i8."
+      },
+      "2TR": {
+        "t": "I3 I4."
+      },
+      "2DE": {
+        "t": "0i 9F hM c 5a."
+      },
+      "S": {
+        "t": "fa 0 5d."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "i9 ia!"
+      },
+      "2TR": {
+        "t": "9E 2W I5!"
+      },
+      "2DE": {
+        "t": "hn c 26!"
+      },
+      "S": {
+        "t": "fA 0 22!"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "iA 1 4E ib, 0d iB, 6T 8z 0 2S ic L 4j iC”."
+      },
+      "2TR": {
+        "t": "I6 I7 0 I8 I9, 2c 92 1 4y Ia I 7s IA.\""
+      },
+      "2DE": {
+        "t": "s hN L 1C, c 5 2B 71 6v, ho y 0 34 6m, hO 5 4 2l hp w.“"
+      },
+      "S": {
+        "t": "U fb 5 14, f b fB r, fc 03, 4 ad 2x fC 0 1M.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"id iD 2S ie?\""
+      },
+      "2TR": {
+        "t": "\"9E 1B 4y Ib?\""
+      },
+      "2DE": {
+        "t": "\"Ad 5e 2 26 4 2l hP?“"
+      },
+      "S": {
+        "t": "“fd 0g 0 22 fD 0 1M?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"9C 9 3E 4F 2i?\""
+      },
+      "2TR": {
+        "t": "\"B 1L r 1B J IB C?\""
+      },
+      "2DE": {
+        "t": "\"Ad 5e 02 b 21?“"
+      },
+      "S": {
+        "t": "“3x 0 fe 2 6 4M 0g 05?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"9d 9D 2t 9.\""
+      },
+      "2TR": {
+        "t": "\"Ic 9f 44 8.\""
+      },
+      "2DE": {
+        "t": "\"8I 9v 6 hq.“"
+      },
+      "S": {
+        "t": "“50 4C v 15.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"5C 9e 2, iE 9E i 1m 1 if iF 2t 4M.\""
+      },
+      "2TR": {
+        "t": "\"94 50 1d 0 7i IC 44 Id.\""
+      },
+      "2DE": {
+        "t": "\"hQ 2N 2 26 hr, 3 6r 9 8S 4c 0r a.“"
+      },
+      "S": {
+        "t": "“fE 0 22 ai 3 4C 6 0P 4B D m d L 5X.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"0O 9c 3E e F ig?\""
+      },
+      "2TR": {
+        "t": "\"06 50 1B g f ID?\""
+      },
+      "2DE": {
+        "t": "\"0T 72 w 2 26 0c hR?“"
+      },
+      "S": {
+        "t": "“17 4M 0Y 0 22 1V 0J?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"9f 1A iG ih iH 8f 4.\""
+      },
+      "2TR": {
+        "t": "\"9F 39 Ie IE If.\""
+      },
+      "2DE": {
+        "t": "\"hs A d N 2Y 6t, 0d 4 5 C hS 0f.“"
+      },
+      "S": {
+        "t": "“aI 0G t 0j 6 b V h ff.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "d ii iI, 3f 2, k r 13 2, 8 ij 9F m w 0F 4."
+      },
+      "2TR": {
+        "t": "9 IF Ig, b H 9g IG 7 0K 51 Ih."
+      },
+      "2DE": {
+        "t": "h ht c 73, 0U I 3l, G 1p J 5s C 1D 0y r hT k AD."
+      },
+      "S": {
+        "t": "J fF A aj, 4n a 23 3 i 6 A 2Z 8 4f aJ 9h 1i 0w."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“j, D 0i 6, P n iJ ik 2Z 0 P H iK 06 il iL."
+      },
+      "2TR": {
+        "t": "\"5S, 4 0D 3, 4Y IH Ii, m II 1W A Ij IJ."
+      },
+      "2DE": {
+        "t": "\"Z, Q. 1F e, 7 1e 0A hu 26 hU, 0 1Q 7 P 0R, 0o Y 2v O hv.“"
+      },
+      "S": {
+        "t": "“04, G. 1G F, 9 0p 2p I M 22, 4 6a 9 p 9P K u j ak R 3 07 P."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "im 5d o 9g 9G."
+      },
+      "2TR": {
+        "t": "Ik P D 9G IK."
+      },
+      "2DE": {
+        "t": "0a Ae 0s AE, 2H 74 D."
+      },
+      "S": {
+        "t": "N aK j 6p f B 3i."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "5D 3 iM 9h in, T 6: 14 iN a io e 3F iO 0 ip iP 3d 9H 2, 0t iq 9 e 1 9i 0y, z 5, iQ 4 0 9I 4n 8U ir.”"
+      },
+      "2TR": {
+        "t": "52 9h 1O 8g 4 3: Il 53 g 6n IL 1 Im, 3B 9H 8 g 9i IM 9I 0N In, Y 20 6M IN 1 M Io 3B 9j IO."
+      },
+      "2DE": {
+        "t": "hV 7 3g hw, Q. e: Af Y 4y, S hW 2 1S AF, 0 2 hx D 2 6w O g 2 3Q, 2 1N 3G K, i 6 hX, 14 5 2 hy hY a 0 i hz Ag u.“"
+      },
+      "S": {
+        "t": "6P fg g 1Q, G. F: 6 o 3I H u 0V 6q 2 0 0j t 59, 4 6 0 9B B 0 S P 7 0 2u W d T 4l I fG 0O, 26 b 8 fh 4 k 13 06 0O 7 0P 0f.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "9j 3 iR is."
+      },
+      "2TR": {
+        "t": "54 2 Ip IP 3r."
+      },
+      "2DE": {
+        "t": "3K 0n 3l F 0z hZ H0."
+      },
+      "S": {
+        "t": "3z 0o 23 6Q z g fH."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"C iS 2q 9J 01 it iT b 47 o iu V iU\" 7."
+      },
+      "2TR": {
+        "t": "\"Iq 0U IQ Ir 9J 0 l IR Is IS\" 5."
+      },
+      "2DE": {
+        "t": "\"B H1 2S C H2, 3 4 75 8 H3 ac U H4 v 1n 4N H5“, f 5."
+      },
+      "S": {
+        "t": "“1 19 6h 3 fi 6 0 15 B 7 v fI n fj 7 fJ 2 M 39,” E b."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“1q 6M V 8A 2, N iv A 8Y."
+      },
+      "2TR": {
+        "t": "\"9k 0C It A 1V D IT 4j."
+      },
+      "2DE": {
+        "t": "\"B 6h AG 2n A7, 3 0K 2P 6u 4m 0B.“"
+      },
+      "S": {
+        "t": "“1 0e 9C 3 1Q X 6 r p 12 6J 3h."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "iV G, 9g 8b 5e."
+      },
+      "2TR": {
+        "t": "Iu c, 9G 55 9K."
+      },
+      "2DE": {
+        "t": "3L 7 0x Ah, 4 Ae 0s A AH."
+      },
+      "S": {
+        "t": "2E 9 0u, 0 aK j al."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "iw iW!"
+      },
+      "2TR": {
+        "t": "IU!"
+      },
+      "2DE": {
+        "t": "H6 39!"
+      },
+      "S": {
+        "t": "fk 0t!"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "ix 9k 2, 1B 0X 3g iX iy 2, P 0p iY”."
+      },
+      "2TR": {
+        "t": "Iv 9l 1u IV 0h 04 6K Iw IW.\""
+      },
+      "2DE": {
+        "t": "B 76 6 77, 3 1 o Ai m 4o 8 0F H7 0 0V 0I, k A 00 34.“"
+      },
+      "S": {
+        "t": "1 6r 0u 6 7 0 1F 2 0 4N 1 2O fK 7 D 0B 4 0A 0l 9 p fl R.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "iz 4g 1K 2V iZ I0 I1 1 4K K 1 23 I2 5E B I3."
+      },
+      "2TR": {
+        "t": "9L 9m I 1G 4C 4d 1 2y 3l 0 Ix i 0 T IX Iy IY Iz IZ 2U."
+      },
+      "2DE": {
+        "t": "2E 2 AI 4O a, 3I q 0n g 0 H8 V H9 v 4 Aj m 4o E 2 Ha AJ 0C 2p, H j HA Hb HB."
+      },
+      "S": {
+        "t": "6R 0 6s fL C 0o 95 4 0R A fm I 0 fM aL c 0 fn 6S 2 5 P W s 5 fN fo 0w K."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"4o 50 I4, v,\" 5, I5 I6 7, \"I7 G, I8 I9 2i.\""
+      },
+      "2TR": {
+        "t": "\"8r j0 h,\" 5, j1 j2, \"j3 c, j4 2J 56.\""
+      },
+      "2DE": {
+        "t": "\"3K Hc HC, 01“, f 5, 1Q 5 Hd 8 W HD He, \"15, k 1 0x f, 8 78 2L 2Z.“"
+      },
+      "S": {
+        "t": "“3z 2M a2, 00,” E b, H b fO 06 A fp, “0H, H 1 E, l 7 0 6t 2 2n.”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "– 24 3E Ia IA?"
+      },
+      "2TR": {
+        "t": "\"06 1B 1y j5?\""
+      },
+      "2DE": {
+        "t": "\"0T 72 C 0F?“"
+      },
+      "S": {
+        "t": "“17 4M h 0B?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“9f 3 5f 1 1o 2m N 1 1o Ib IB Ic."
+      },
+      "2TR": {
+        "t": "\"9F 2 1L, 0p 1H 0C 0 9M j6 j7 9M 0 14 G."
+      },
+      "2DE": {
+        "t": "\"Ak 8 0j 0k 62 A d N L AK 1s, 2 58 g L 25 AK 1s Al.“"
+      },
+      "S": {
+        "t": "“aI u e 7 g 0f S 6T 2B fP 4L 3 0 fq 2 6n 6T 2B."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "IC 9K Id ID 5F 0h, z 9l 2R K 3 4h."
+      },
+      "2TR": {
+        "t": "3y, j8 1Y j9 2e 0y 4s ja 2o jA 9n 4s jb jB jc jC."
+      },
+      "2DE": {
+        "t": "0a 1m HE c AL, 79 86 g c aV 0k 6 Hf, 0p 0z D HF Hg, 2 53 HG D."
+      },
+      "S": {
+        "t": "N 2m p am 0 fQ 2 fr 4b 3R y 0 a0, fR a fs 3 l 0 S f B 8t 25."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0b k 52 2, 56 Ie IE If 50 IF – 9L 0 Ig 1 IG 9m 1w Ih 1 a IH Ii II 7q."
+      },
+      "2TR": {
+        "t": "U H jd, jD je jE jf, 9N jF jg jG jh; jH, 4v 1 0V ji 0 jI jj 1J 1v."
+      },
+      "2DE": {
+        "t": "4p D 1i 1P, 3 2 Hh HH 8 0j 0k 9D 3c, Hi 6 Am, 08 7a g c aU 1s 6 HI – b Hj 2M, b r 4n A0 S 0 R r HJ Hk HK."
+      },
+      "S": {
+        "t": "0M a B 6O 3 i 6 0 fS 18 3 aM 0 0f B 3 aa z ft 3 6u v 45 y 0 2M 2B—0 6K j, o 3H 0R, 4 3 o fT O fu."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Ij IJ 9 1 I l 09."
+      },
+      "2TR": {
+        "t": "jJ jk jK 2O 0W."
+      },
+      "2DE": {
+        "t": "M 0N 4P Hl, b HL 6 Hm."
+      },
+      "S": {
+        "t": "q 0p 02 2P 3 fU 0D 2e."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Ik, 1H 1K, k 1W l IK 9M."
+      },
+      "2TR": {
+        "t": "9o jl 9O, H jL jm 34."
+      },
+      "2DE": {
+        "t": "AM, q HM, 1 0u C, 3 0H I 4G An."
+      },
+      "S": {
+        "t": "6U, C 2q 4o, 1 19 0C 9 0c 4O i."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Il IL 0y, 5g c Im 7f IM In IN."
+      },
+      "2TR": {
+        "t": "jM jn 0b, 57 jN 1e 90 jo 9p 0Z jO."
+      },
+      "2DE": {
+        "t": "M 3c 0M 9N, Hn u 1 C o HN 0Q Ho, 2d 6O HO."
+      },
+      "S": {
+        "t": "0X B T fv 2 8Y, 08 1 0g h fV 2 fw X 6v 9."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "9n 2, Io 17 4q IO 5c Ip 2, 3 12 00 9 1 I l IP.”"
+      },
+      "2TR": {
+        "t": "jp 2b 9P, 2 3k 9q H jP 8 0 9Q jq jQ jr.”"
+      },
+      "2DE": {
+        "t": "B Hp 2n, 3 1 00 HP 4D 6e 04, 3 1 0j 65 2K O, 2 d I Hq w, 4G 0f.“"
+      },
+      "S": {
+        "t": "1 an 6 Y 1 0A 9 7 0 fW 1 j l 6V 3 3j 6 1 e L 6V 3 02 2P I g 2h fx W s fX 0N y C fy.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "9j 0Y Iq 2P 4 0 c 8 IQ 0 1Y Ir 1 3s IR Is 2, IS q 9N 11 It."
+      },
+      "2TR": {
+        "t": "54 jR 9r 0S 8L 1 9R 1 js jS 3b, jt jT K ju jU 6h."
+      },
+      "2DE": {
+        "t": "2E q 0n HQ, a A 0x 4e, 0 l 0e Hr 0 HR 1I 0f 1 1q, 3 d V AN Hs C HS 1A."
+      },
+      "S": {
+        "t": "q 8 1R Y C 0o 7M, 4 1 V 0A z 5 5h D A fY 4 fz 0s 6 0 fZ aN c f b d 6w d h L F0."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0U 0n 0X 5, IT 19 Iu, n IU Iv IV Iw."
+      },
+      "2TR": {
+        "t": "N 01 58 jv jV n 9s jw jW jx."
+      },
+      "2DE": {
+        "t": "3F 4g Ao Ht 5 07 d 2C g 0S HT 0 AO r, V Hu HU 6 Hv."
+      },
+      "S": {
+        "t": "3x O 3c b F1 4p y A F2, F3 3 F4 A 0h F5 F6."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "3G, 5, IW 3h 9o 0 Ix 3S IX 0S Iy IY 10."
+      },
+      "2TR": {
+        "t": "2Y jX 9S 9t 1 jy 9e jY jz 0 l 8G 2U."
+      },
+      "2DE": {
+        "t": "7A Ap 5 b HV 2C 0 6T Hw F W HW 6 6e."
+      },
+      "S": {
+        "t": "2U 0v b F7 1D 0 F8 4 F9 06 5 Fa 1y 2 A FA."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“2w I 5F 9O, v, i I 2N a 9p."
+      },
+      "2TR": {
+        "t": "\"1s f jZ J0 h, 9T u V l."
+      },
+      "2DE": {
+        "t": "\"M Hx 0v AP, 01 – r AP, k A 0J 2Z 04.“"
+      },
+      "S": {
+        "t": "“ao m 6L 3J, 00—m H 3J H a 0c 1a."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C d 3H Iz 1 5G IZ, J j0 8M 2, 1 0W 3 j1 9a j2, 06 0T 5F j3."
+      },
+      "2TR": {
+        "t": "03 2y J1 0 59 3m J2, b J3 J4 19 C, 0 J5 A 7g k P J6, 1W 9u J7."
+      },
+      "2DE": {
+        "t": "B HX 07 h Hy, p HY 8 0w Aq 0u 1, 3 2 AQ Hz 3m g H HZ i0 D 0 Y g H i1."
+      },
+      "S": {
+        "t": "1 aO 5 Fb 0s 0w J, Q, y C FB, 1 38 6 I 0y 0 4o B R 0 3i ap 4 u p R 0 3J."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "4o M j4 1 j5, M j6 j7 0 c b 2h 2, j8 9P j9 0o ja m b h jA jb jB, 0a 5 jc jC jd”."
+      },
+      "2TR": {
+        "t": "4t J8 0 9U, 0o J9 1g 3M Ja 9U 1 JA Jb 03 JB 1M L Jc JC Jd JD Je 4U JE 6 9v.\""
+      },
+      "2DE": {
+        "t": "Ar i2 3k 8 4 j 78, 4 6Z 8 4 2P, 0 1 41 U, 3 4 i3 i4 n C i5 i6 i7 06, g H i 0G 6u c i8 07 4q 6Z 1U 0o.“"
+      },
+      "S": {
+        "t": "61 C Fc p S 18 4 m 0 3W p 0 12, 4 1 0Z 4P 6 FC Fd e h 0Q FD 6 Fe 2 FE Y 0G j 1u 0 Ff 3 C 6J 0r 4q 3W.”"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"jD je?\""
+      },
+      "2TR": {
+        "t": "\"2s Jf S?\""
+      },
+      "2DE": {
+        "t": "\"i9 0H 8 2L?“"
+      },
+      "S": {
+        "t": "“FF 9 1a 3 2n?”"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“0c, 1b, c jE 4X 0 b 3i 1L 9q 2, 5S jf jF 9Q 9r 3q a jg jG."
+      },
+      "2TR": {
+        "t": "\"v h, 9V JF 1 6 Jg 5q 9w 9W 3u 3U 0 JG D 0L."
+      },
+      "2DE": {
+        "t": "\"1b, 01, 1 0E ia 4O 0 T U AR iA, 3 2 ib y 9 4Q iB ic a.“"
+      },
+      "S": {
+        "t": "“1E, 00, 1 3E r, 4 1 0I n aP 6 0 1R 7H 03 8 5 aq 5M Fg."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "jh jH ji 9R."
+      },
+      "2TR": {
+        "t": "Jh JH Ji 8 5a JI."
+      },
+      "2DE": {
+        "t": "0i iC a g 2 id 0A 0e 4r."
+      },
+      "S": {
+        "t": "N FG 8 4p 7 Fh 2 A 4Q."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "jI 1y 4 - 30, jj, 45 6e, 73 0 5y jJ 4."
+      },
+      "2TR": {
+        "t": "Jj JJ; 4J 4k, Jk, 72 73, 71 1 JK 6s 0 Jl."
+      },
+      "2DE": {
+        "t": "0a 5q a 6 6J – 9 7b, iD, ie As, b 07 42 0 iE if."
+      },
+      "S": {
+        "t": "N aQ 8 D 4E—5 0a, FH, Fi 2L, 7 5 FI 2 4P 4 Fj."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "8E 2, 5, 9A 8 jk jK Q 36 jl."
+      },
+      "2TR": {
+        "t": "0z e 9c JL Jm 0Z 9x JM."
+      },
+      "2DE": {
+        "t": "a1 u i C 3J 4 iF 0S ig 8 iG 7B."
+      },
+      "S": {
+        "t": "9H 1F, 0m k h FJ 6N 0 Fk 2 A FK."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0b 5, 1d jL F 7i, F A jm."
+      },
+      "2TR": {
+        "t": "U 0t Jn 9X d 2h d A JN Jo."
+      },
+      "2DE": {
+        "t": "7 2N 1i 7c aA n ih 0d b iH F y 13 6i 3H."
+      },
+      "S": {
+        "t": "0M 0m k h a8 4e 9L 08 Fl 0r 0 FL 2 03."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "jM, 5, 8 0S 5 a jn jN 2, jo 0v jO 7d 4c jp, z 5h 2, jP 8 3C 0S 3 0k jq jQ, 3, H jr 0 jR js."
+      },
+      "2TR": {
+        "t": "9y JO, 9Y 0d 0 Jp JP C, Jq 9z JQ Jr 0G 9Z JR; Y Js, e 2 JS 2 l Jt JT, a0 2 m Ju 1 JU Jv JV Jw."
+      },
+      "2DE": {
+        "t": "3M AS, i 50 E ii iI F 0b, 3 i ij 4 75 2 1m iJ ik, 0p 09 35 4r i r 0d c O 3k At, u P b 27 6 iK 0 il iL."
+      },
+      "S": {
+        "t": "5f 0 Fm, 0m ar 2 K c 4r FM 6 0m 8 Fn FN Fo 0 0f 2 0 2m, I, 2 1F, x 1k 4Q d 3B 1k 52 2 0 P 7 g 2X a k FO K Fp FP 4 8h."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, jS m b 2c 0 9s jt jT, - 5 7, - ju jU 2d Q 4."
+      },
+      "2TR": {
+        "t": "'JW 6 V a1 1 a2 0 Jx 3r,' 5, '1 88 2d a3 JX.'"
+      },
+      "2DE": {
+        "t": "\"s a im 9 AT 0 iM in G 9 7C“, f i, \"0 b a 5 0x 2j, 29 5 9 2T O a.“"
+      },
+      "S": {
+        "t": "U 8 0b 1C 5 2T 4 Fq FQ 1i 5 Fr 1K,' E 0m, '4 b 3Q 8, 4K 26 b 8 5 0E P.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"E 07 H jv?\" 7 c."
+      },
+      "2TR": {
+        "t": "'1D E Q Jy 5A?' 1x."
+      },
+      "2DE": {
+        "t": "\"‚7 6f P 7v 0x?', f 1.“"
+      },
+      "S": {
+        "t": "“'09 1A K D 6 0d?' E 1."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“0c, c H Y jV; 9l 5, h 1J jw 4."
+      },
+      "2TR": {
+        "t": "“'v, m 07 JY; 2x 13 Jz."
+      },
+      "2DE": {
+        "t": "\"1b, 1 Au P 2Q; 5 a 70 3m 9 iN F I.“"
+      },
+      "S": {
+        "t": "“'1E, 1 1A K 28; 7 aR, b 8 O 2v FR 2 Fs."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "jW jx jX 2, 1V 5G jy 0 m Y, m 5v 1 5V jY jz f 4."
+      },
+      "2TR": {
+        "t": "5b JZ C 9Y k0 F 07, 2x F k1 0 k2 k3 k4 k5."
+      },
+      "2DE": {
+        "t": "4F 1p 6I K 1 c 6q, t F 0b io 0 L iO, 09 0K ip, O 6 iP."
+      },
+      "S": {
+        "t": "6W 60 6 1 d 0 as 3 3C 4p w K 4 3 FS 5 9d, x 5 Ft, P."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "C 1x jZ, T 6, 8 J0 1 J1 0p J2 6N 68 7b J3 0 8 9S J4 5 a J5 4J 2, 1x m e 1 J6 81”."
+      },
+      "2TR": {
+        "t": "4 3, k6 k7, 0 k8 k9 0 ka 04 kA 1m 65 3C 0 kb kB 1 e a4 kc E 7 kC kd C, 2l 8C g kD ke.'"
+      },
+      "2DE": {
+        "t": "B a E 0b, Q. e, iq, G 1 j 80 5j 3X At, k 5 j iQ 8 0O ir iR K, 0 1 a r is 0d V iS it, 3 1 0c 1D E 0b 6 21 06 2N."
+      },
+      "S": {
+        "t": "1 8 FT 3 K, G. F, Y 1 3B 5 7q 5E 2 0l b d 33 5 Fu FU 7 O Fv, 4 1 8 o FV D A Fw FW 6 1 k e 0J 0b 3 02 c K.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, J7 J8 0 Z 5, J9 0k Ja 0 JA Jb 1 JB Jc 4w."
+      },
+      "2TR": {
+        "t": "N kE kf 1 1X kF kg 0 l kG a5 1 a5 0 kh kH 4p."
+      },
+      "2DE": {
+        "t": "7 iT j iu 0 ah 1y 9 AU 0O 6K 8Y, b iU E R iv iV 0 iw a."
+      },
+      "S": {
+        "t": "1P Fx 7 5 FX, 4 9X 0m Fy 5 aS 2 5 6D, FY Fz 4 FZ c 5 g0."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g h n JC\" 7."
+      },
+      "2TR": {
+        "t": "'B L n ki' 5."
+      },
+      "2DE": {
+        "t": "\"X D q 6o AU“, f i."
+      },
+      "S": {
+        "t": "1v B C 0h aS,' 0m E."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, Jd 9t JD H 5 5f k Je”."
+      },
+      "2TR": {
+        "t": "'1D H E kI, kj 0B, kJ kk kK.'"
+      },
+      "2DE": {
+        "t": "s ad A I 8 0j 7V, 3n E 0e iW, l 0w ix."
+      },
+      "S": {
+        "t": "U 9N a 3 i 7 6 51, c A g1, y C g2 0t.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "\"j,\" 1i, \"e 25 Z 9T JE, z M Jf JF 20\"."
+      },
+      "2TR": {
+        "t": "\"'5B,' 1x, 'u 7k 0O 4Q kl, Y 0o 3c 82 kL a6.'"
+      },
+      "2DE": {
+        "t": "\"‚Z', f 1, ‚iX w 5 1k 1G iy, 14 5 J 9y 45 iY 4r 9Y w.'“"
+      },
+      "S": {
+        "t": "“'04,' E 1, 'D 8T b s g3 9 0n, 26 b s 1n m A 5s 3 M 4Q.'"
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“9u 8G, F A c x Jg JG 0 W Jh 1 I JH” 0I 5, 4O Ji 3v."
+      },
+      "2TR": {
+        "t": "\"2z 4M d A y, 5c km 5c kM kn, q kN g f ko,\" o kO kp 0 7q."
+      },
+      "2DE": {
+        "t": "\"iz q 4r n 1 5D aB F 0q y, iZ 0D I0“, 5A i E H I1 I2."
+      },
+      "S": {
+        "t": "“'g4 C 4Q 6x 1 3V 1S w 0S 03, 4c 08 g5,' 0m 5A, c 5 9E g6."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "JI 1 Jj f, T 6 0 5 1D JJ Jk 0u JK Y 5H 9G 2, Jl JL 8 Jm y JM”."
+      },
+      "2TR": {
+        "t": "kP 0 a7 G 4 3 1 E V kq kQ a7, 3R 9B kr kR e ks kS D kt.'"
+      },
+      "2DE": {
+        "t": "\"M 2O L 4F o Av, Q. e, 0 I3 4F, 2 0P I4 O I5 w, 0s 6 0S 1J AE, 3 4 43 2X I6 C l 0e 7d I7 0B.“"
+      },
+      "S": {
+        "t": "0X B 5 at 7 60, G. F, 4 6 3d at W s g7 6 aT P j 6p 7 2W 0h 16 0d 6 C g8 2k p g9 2 A 1x.'"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“j, c 1 0 W X Jn 9U, J JN 1W 1O e 1 I 3I l 34 0 0m 0s Jo 1 S 9v f."
+      },
+      "2TR": {
+        "t": "\"N 15 j 6W a8, b a9 2O 56 g aa aA, 2x a9 1E kT X 9h a aA."
+      },
+      "2DE": {
+        "t": "\"Z 0X, 1 T 9 2o I8 8u, 0f p 0c 0R, 03 3T I9 Ia u, 0 IA 19 6Q, 4 AV 3k 2a.“"
+      },
+      "S": {
+        "t": "“04, 1 au S 08 0L 8E, Q V 1g D 0J f k 4O 07 ga, 4 68 1w f k 0W 1O a."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "3G 1V 2W 26 0 3g 4X."
+      },
+      "2TR": {
+        "t": "2Y ku 1 1u P 5a kU."
+      },
+      "2DE": {
+        "t": "7A 4B 1 g 0 6L 0A 0F."
+      },
+      "S": {
+        "t": "1 6X a Z D 0v 4 6y 1 3E 3 0B."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“g 53, 4A 4b JO, n Jp JP, 3H Jq B 8a JQ K, Jr JR q Js JS."
+      },
+      "2TR": {
+        "t": "\"B ab, 3t 3T kv, n kV 6S, 2y kw kW 1k 0 kx 1A, kX ky K 1 kY 0 kz."
+      },
+      "2DE": {
+        "t": "\"Ib IB, 5v 5V 5w, D j 1g, Ic IC x Id, 4 g R 1z ID 08 Ie Aw 0 07 2 d 9 E IE If 7D IF.“"
+      },
+      "S": {
+        "t": "“1j 3A, 5k 5K 5l, B 5 gA gb aU 2 av gB, gc 0z 7 2f 0h gC, c 5 gd 6Y 7 aV 2 a."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Jt 0 JT 1 a 9V 2O O Ju JU f 4."
+      },
+      "2TR": {
+        "t": "kZ K0, K1 00 K2, 7m K3 7D 7e p."
+      },
+      "2DE": {
+        "t": "Ig 0 9 IG Ih 2 5W 4R d 2 98, 1W A 6 H 47 4E a."
+      },
+      "S": {
+        "t": "50 0 3i 4 v gD 0z w 0 5L 8 0 8L f d L 0 8P 2 0 1W."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "1R Jv 1 JV Jw JW."
+      },
+      "2TR": {
+        "t": "0j K4 0 K5 K6 0 K7."
+      },
+      "2DE": {
+        "t": "2J D 9 IH Ii g R II x 0w Ij."
+      },
+      "S": {
+        "t": "ge 5 6B gE R 5 gf 2 C 9e."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Jx 3 JX Jy 1c 6C JY."
+      },
+      "2TR": {
+        "t": "K8 K9 0t 2r Ka KA."
+      },
+      "2DE": {
+        "t": "X 4l IJ D Ik, b 8 IK 1L 8t."
+      },
+      "S": {
+        "t": "1j 3F R 0 1n B 0 S f gF 06 6z 11."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Jz JZ 9w, k0."
+      },
+      "2TR": {
+        "t": "Kb KB J Kc."
+      },
+      "2DE": {
+        "t": "49 04 A F 2 5W x 0V."
+      },
+      "S": {
+        "t": "09 0c 2p 06 a w 0 5L, 9 0A."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g 1B k1 k2 3d 3D."
+      },
+      "2TR": {
+        "t": "aB 1z 6m 0N KC 2 0P."
+      },
+      "2DE": {
+        "t": "X D r 4Q 2 6w Il, c 1 38 K."
+      },
+      "S": {
+        "t": "1v B 0k 0 0e gg 2 gG 1 e d aw."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "d 0A 2F, 04 8 O k3 k4 k5 k6 k7."
+      },
+      "2TR": {
+        "t": "9 x 5C b Kd KD."
+      },
+      "2DE": {
+        "t": "h a C IL, p J Im IM 4 In."
+      },
+      "S": {
+        "t": "J 8 h r, Q A aj aW 0Y 0 gh."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "5i k8 q 1 k9 ka."
+      },
+      "2TR": {
+        "t": "4z 0 Ke KE."
+      },
+      "2DE": {
+        "t": "7 1A 3f L IN Io IO."
+      },
+      "S": {
+        "t": "4R d 2N 0R 5 1h gH."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "5i 9t kA 0G kb kB 1v kc 3A kC 0 9W kd kD N, 1 S ke kE kf kF kg."
+      },
+      "2TR": {
+        "t": "Kf KF 0u 45 Kg KG Kh 1 43 KH 7M 7l 41 X 5d Ki KI Kj KJ Kk."
+      },
+      "2DE": {
+        "t": "7 1A c Ip 2S IP, 8 2 AW m Ax Iq 6 IQ, 0 Ir c IR Is IS 1A i 9w It IT 2k."
+      },
+      "S": {
+        "t": "4R d 9u 0 0t gi 5W 0 5x 2 0 48 1X, 4 6Z 0 5V gI 5w 0G d gj 68 gJ gk gK."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "kG 0t kh 0 1a kH 9x 27 e 1 ki 05 4."
+      },
+      "2TR": {
+        "t": "KK 5D, 0r Kl KL 2j 1m g 1P 0v."
+      },
+      "2DE": {
+        "t": "B 4s i AX, 0 A ab 2e 1M 0Q, 3 A d N Iu 6t."
+      },
+      "S": {
+        "t": "1 2Q 0O c 9v, 4 r 8 T 1o 6 0G t gl 70."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "kI 9X 7E 19 1d kj K “kJ”kk 3w B kK A kl 26."
+      },
+      "2TR": {
+        "t": "Km ac KM 0I 9w Kn i 'KN aC Ko D 0Z 7V 2n."
+      },
+      "2DE": {
+        "t": "B 0f 70 1q, 3 0C 1d E H 2i 'IU' Iv a, 2 2 IV F y a."
+      },
+      "S": {
+        "t": "1 6N gL 6 S 2 0O 8 gm c 0 0U 2 'gM,' W 8 6z gn."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "kL 7H 0 2r 9 km b 5I kM, 04 3 kn i 1X 9y a 3T p."
+      },
+      "2TR": {
+        "t": "2p I KO ad Kp 2f 1 2H KP b Kq M 0X KQ 7 Kr."
+      },
+      "2DE": {
+        "t": "6n T 1 c 7D U AX 0A 9i 0 1Y Iw, p 0t IW w 0v Ix k IX Ay."
+      },
+      "S": {
+        "t": "1 0T 7k 0 6Y n gN I 5R 4 36, Q g go s 0R 6c H 71 H ax."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "28 1 I 9Y 2, 2Q kN 0 W ko 0G 9z B 1 kO K kp kP kq N."
+      },
+      "2TR": {
+        "t": "aD 45 KR 1A Ks 0 KS 0 Kt 15 0 KT 7o 26 g f Ku."
+      },
+      "2DE": {
+        "t": "M a 0c 6 0V, 2b 3 j 2l 0D 9 5t 0Z j AY Iy 67 0r a, 4 8 0O IY E H 1l 3I."
+      },
+      "S": {
+        "t": "gO 8 3 l 2j 3M 6 v 1M 08 8j d L 5v 3f 5 aX gp ay f B 7 5 a5 c 0 1X."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "3a 2Y, 29 2, kQ kr kR."
+      },
+      "2TR": {
+        "t": "0z 0r ae KU Kv KV."
+      },
+      "2DE": {
+        "t": "X 0v Ac 27 2g Iz 4N."
+      },
+      "S": {
+        "t": "61 6, 2 1F, gP 7 c 0 9Z 39."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "ks kS kt B kT ku, J 9F m kU 4R 1 3X 51 2V kv."
+      },
+      "2TR": {
+        "t": "Kw KW Kx KX 0I Ky KY, b 0 7v 1X Kz F KZ l0."
+      },
+      "2DE": {
+        "t": "B IZ E 2 j0 o j1 0d c 7D, p G 1 0A 0O 4g 6D j2, a 1 C j3 G AD."
+      },
+      "S": {
+        "t": "1 gq 0k 0 6Y c O gQ aY R C 0z, Q 1 4s Z D 0 1L 2 O 3c T gr 1i 0w."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“j, 3 kV L 0N 1c kw 0 H 0H kW."
+      },
+      "2TR": {
+        "t": "\"0j 2 l1 I 0A 2r l2 m a 5D."
+      },
+      "2DE": {
+        "t": "\"Z, 0A 0j j4 7e 1 2z 3b 0 4s 0K b.“"
+      },
+      "S": {
+        "t": "“04, 2x g gR 1 3E 06 0 2l 4 2Q 6 2C."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "kx 4e b 9Z, a0 kX 0 ky kY 4, 04 0w 2, a1 4."
+      },
+      "2TR": {
+        "t": "l3 3x 6 aE, w l4 1 l5 l6 b af l7."
+      },
+      "2DE": {
+        "t": "0a 60 0g U Az, j5 j6 0 j7, p ao j8."
+      },
+      "S": {
+        "t": "N aD t n 4a, gs gS 4 gt, Q az 5o."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "kz kZ, J 0A 0H 9Z 2r f 4."
+      },
+      "2TR": {
+        "t": "l8 l9 b x a 2H aE."
+      },
+      "2DE": {
+        "t": "0i 1C a AF 0r, p 0K 2B 0g 4 1Y 0J Az."
+      },
+      "S": {
+        "t": "N 14 d L 59, Q r 2C 0 5u t 4a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "K0 K1 K2 e 1 1C 0y."
+      },
+      "2TR": {
+        "t": "la lA 1a 0F lb g 3z lB."
+      },
+      "2DE": {
+        "t": "M 3c 2e 1M 0Q, 3 2 1C 7E 7f 4f."
+      },
+      "S": {
+        "t": "0X B T 1o 0k 0 14 gT 3 07 1e."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 36 0h."
+      },
+      "2TR": {
+        "t": "0x 4r 2G."
+      },
+      "2DE": {
+        "t": "s 2O A 6."
+      },
+      "S": {
+        "t": "U gu a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "K3 i X a2 K4 4D K5 2K, 04 K6 a2 e 3F 05, 3 0H 0s 4L 9 K7."
+      },
+      "2TR": {
+        "t": "lc M j T 6b lC ld b lD 0 le 1a 5C, 2 a 0E 1E lE 0 lf."
+      },
+      "2DE": {
+        "t": "AZ H b0 0g j9 ja 7F 6 1q, 1i 0M F 0O jA 6W, 03 jb 9 b1 2 jB D."
+      },
+      "S": {
+        "t": "gU 2 2w 72 V l 0R X R 0 aZ, Q 6q 2 0P gv 2L, f 4S B 5 A0 I 0 12 3k."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "5i i 1n K8 K9 0 06 Ka."
+      },
+      "2TR": {
+        "t": "lF lg lG lh 1 1W lH li lI."
+      },
+      "2DE": {
+        "t": "7 jc b2 jC b3 x, 1Q Y 0c 1D jd b4."
+      },
+      "S": {
+        "t": "4R t gV Z 4b gw m 0 0d 4 u t D 5 gW."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“1q 1 08 91 KA 3I 26 - J 3 e 1 I Kb."
+      },
+      "2TR": {
+        "t": "\"9k W 0 aF ag lj 1 E a g lJ lk."
+      },
+      "2DE": {
+        "t": "\"B jD 0J L b5 je – 0 0U a jE 0c 4V.“"
+      },
+      "S": {
+        "t": "“73 S 0a gx 2 6g 0Y 1 1g—4 0Q a gX 3 0J."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "KB Kc KC 19 Kd 7j KD 44."
+      },
+      "2TR": {
+        "t": "lK ll 5D, lL lm 8l 0I lM 0L."
+      },
+      "2DE": {
+        "t": "B 4s c jf m jF, F H 2 jg jG jh 0 g H 4i 71 jH 0r a."
+      },
+      "S": {
+        "t": "1 2Q 0 gy 2 0 49, 2D 2 f d L 74 X 4 1n R 0 4g."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "Ke KE Kf KF, 9X 1 0 W Kg 37 1G KG."
+      },
+      "2TR": {
+        "t": "ln lN lo lO, ac 0 15 lp 05 1R lP."
+      },
+      "2DE": {
+        "t": "0a 2Y 0g 8 ji jI jj 0r, F 8y 9 0D 0W F 2 1m 66 0r 0g."
+      },
+      "S": {
+        "t": "N 0j d L 0R Z 06 A1 gY, S 08 0L 2 f d L 3S z 0 2m."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "a3, h Kh l KH a, e 1 q 9b 05 4, F A a4 Ki D 1d b 7W KI o Kj."
+      },
+      "2TR": {
+        "t": "7Y lq 53 0r 5R 0 lQ 0v 1 aG lr a 4 0t 6 lR 1L D ls."
+      },
+      "2DE": {
+        "t": "Af 1 b jJ 0f, 0g i C F b6 AC, 0 0K b jk 1r C 1q, 3 d 05 y 8 jK jl jL 4R."
+      },
+      "S": {
+        "t": "4R t h, o 3I H 1 V gz, 2 0P 1h aH, 6x 0Y 0 A2 6p 6 G. 03 8 7 4r n gZ G0."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0b k r 13 2, M 46 0A 0j."
+      },
+      "2TR": {
+        "t": "U H 0d 96 C, 0o ah x 5C."
+      },
+      "2DE": {
+        "t": "4p 3l A p, G 5T C 0m 1S 14."
+      },
+      "S": {
+        "t": "0M a 23 3 i 6 m 0 0j t h r."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "9d KJ - 5j A m Kk - c 1Z KK Kl f 4."
+      },
+      "2TR": {
+        "t": "lS 0U lt, aH A F 1r lT lu p."
+      },
+      "2DE": {
+        "t": "M 4B jm g 19 jM – 6k 4 jn –, 4 1 1i C 0R 0f."
+      },
+      "S": {
+        "t": "0X t G1 3 v G2—75 0 0b G3—f 1 V h 0q."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "g, 29 2, 6K 06 s KL 0k 2X l Km, 0o KM a5 0s Kn, z 5, 1 1X a6 2x KN Ko KO, 0z Kp?"
+      },
+      "2TR": {
+        "t": "0z, 0H J 0K s lU, 2 03 lv 2t 1E lV; Y 18, 3w 0 7z I lw 4V lW 0 0X lx 5c C?"
+      },
+      "2DE": {
+        "t": "1j Y b 27 3N jN 6z, u d 4q b7 27 1a P 18 jo, 0p 2H u 0x 08 jO, 09 5 5k, 3 5 A 9a A3 u?"
+      },
+      "S": {
+        "t": "1j, 2 1F, x u V G4 G5 a, k 3C 4q A3 1O 0N, I W k G6 5 1Z x b 1A 6 b k G7 G8 a?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "“3G, M KP Kq KQ 0 e 1 Kr KR, Ks a7 B 9U."
+      },
+      "2TR": {
+        "t": "“2Y, ai 0l lX ly g lY lz lZ aI L0 a8."
+      },
+      "2DE": {
+        "t": "\"57 1 1y 0m 25 jp jP 0 0M jq jQ K, AO 1 q jr 0L 2 22.“"
+      },
+      "S": {
+        "t": "“A4, 5Y 6I 42 12 G9 4 5G Z T Ga, 1 au C GA c 0 20."
+      },
+      "A": 1
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "KS a8 8 Kt, 30, KT, Ku, KU 0 Kv KV 9H."
+      },
+      "2TR": {
+        "t": "L1 aj aJ; 4J 4k, L2, 3i, L3 1 ak ak L4 L5 i 0 2D."
+      },
+      "2DE": {
+        "t": "b8. b9 D 35 2x, j 3R, jR, js 6W E jS 0 jt 11."
+      },
+      "S": {
+        "t": "A5. A6 B 1k 0U, 5 0a, 76, Gb 2L, c GB 4 Gc 1b."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 0l 1 I 0I 2K - c 0m 2e."
+      },
+      "2TR": {
+        "t": "L6 0i 0 9Q L7, 2Z 3P."
+      },
+      "2DE": {
+        "t": "7 0N z 08 2I, 09 i 2N – 1d 0E 1 63."
+      },
+      "S": {
+        "t": "1P V 2t 01 2P x 0m k—1 0F GC 2 a."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0b 5, 3j G 5A 4."
+      },
+      "2TR": {
+        "t": "U E, L8 7 L9."
+      },
+      "2DE": {
+        "t": "17 i a r jT a9 k ba."
+      },
+      "S": {
+        "t": "0M 0m 8 H 4L H 4t."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0c, 5, Kw a9 D KW 3e Kx."
+      },
+      "2TR": {
+        "t": "v, 4 La 01 LA aK 2W Lb."
+      },
+      "2DE": {
+        "t": "1b, i K 0l 02 N 4k ju AA."
+      },
+      "S": {
+        "t": "1E, 0m d 4m G. 05 7 D 6d 9p."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, KX 2, s Ky 1g 3J KY."
+      },
+      "2TR": {
+        "t": "LB J Lc z LC Ld o LD."
+      },
+      "2DE": {
+        "t": "7 jU, 79 31 3C jv, 8k i b bA 1H."
+      },
+      "S": {
+        "t": "1P A7 1k 2i d Gd 0w 0m d 1s o."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 0n 2M Kz KZ."
+      },
+      "2TR": {
+        "t": "Le 2g aK LE."
+      },
+      "2DE": {
+        "t": "7 a N 4k aH 2z 5Y 4O."
+      },
+      "S": {
+        "t": "1P d 2A 3 5P D 6d GD."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R l0 aa 5 3F l1 4 0 F O l2 l3."
+      },
+      "2TR": {
+        "t": "Lf 3v ai LF 1 5e Lg g 0X LG."
+      },
+      "2DE": {
+        "t": "2q 1L 4R d 1x 25 1X m jV, 0 i 0f 0c F H jw, 03 07 d 7e."
+      },
+      "S": {
+        "t": "A8 11 8 D 0 12 1L 2 0 1B, 4 0m V 4F 0J 2 0D Ge."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "0E 0f aA, U l4 y 0T 97 ab 20 9R."
+      },
+      "2TR": {
+        "t": "4 r 5E 1 Lh 53 8k a LH Li."
+      },
+      "2DE": {
+        "t": "05 02 K W bb 0, jW i 7g, 0K W 9E o 3u jx."
+      },
+      "S": {
+        "t": "G. 05 d 1n A 77, 4 3 0 78 2 1k GE A 14, 7 0 1t."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 2O aB B l5."
+      },
+      "2TR": {
+        "t": "1n LI Lj."
+      },
+      "2DE": {
+        "t": "7 a 0Z c bB jX 0r."
+      },
+      "S": {
+        "t": "1P d L Gf z 0 5n 2 1W."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R ac, 1H l6, 0w 2, l7."
+      },
+      "2TR": {
+        "t": "4R, 30 LJ 0e Lk."
+      },
+      "2DE": {
+        "t": "2q jy, 1f 05 a E aj 6x 0r."
+      },
+      "S": {
+        "t": "A8 4Y, 2q 5O d 2a L A9."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "R aC f l8?"
+      },
+      "2TR": {
+        "t": "LK G 2R?"
+      },
+      "2DE": {
+        "t": "jY 5 jz bc?"
+      },
+      "S": {
+        "t": "GF b 0P Aa?"
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "j, i 1 58 aC f 4, J D 9Q 11 b l9 0 la 70 1s lA lb."
+      },
+      "2TR": {
+        "t": "1s T Ll p b 4 R n 0f LL 1 Lm w 7R 8 LM."
+      },
+      "2DE": {
+        "t": "Z 0X, 6j O K bc, p Q. y 3h d U 1R 0 jZ J0 0J o J1 J2."
+      },
+      "S": {
+        "t": "04, 42 P d Aa, Q G. 03 aO 0N n 0Z 3 0N, 4 0e AA Gg 7 0 18 2 2K."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "E, 9x lB 0 1a 0V 0C lc lC ld 27 0F 4."
+      },
+      "2TR": {
+        "t": "Ln LN 1 0r 0J 0a Lo LO 1a al Lp."
+      },
+      "2DE": {
+        "t": "7 K 4 bC 33 0 a d 0Y, 3 i 6 2 5G J3, 4 5 99 1B J4 K."
+      },
+      "S": {
+        "t": "1P d 2j 0 70, 4 8 1d 6 0G GG 3 0 Gh f b d GH 0v 0K."
+      },
+      "A": 0
+    },
+    {
+      "1AZ": {
+        "t": ""
+      },
+      "1TR": {
+        "t": ""
+      },
+      "1DE": {
+        "t": ""
+      },
+      "2AZ": {
+        "t": "lD 9z b le, z 1 lE lf lF."
+      },
+      "2TR": {
+        "t": "aD LP 6 Lq, Y 0 5X LQ Lr."
+      },
+      "2DE": {
+        "t": "0i 1l a U J5, 0p A K 29 R J6 C J7."
+      },
+      "S": {
+        "t": "N 1X 8 n 5N, I a d h Gi I 5 GI."
+      },
+      "A": 0
+    }
+  ]
+}
