@@ -1,0 +1,14 @@
+{
+  "type": "data-manifest",
+  "base": "WhoseBody",
+  "totalRecords": 4237,
+  "chunkSize": 1000,
+  "totalChunks": 5,
+  "files": [
+    "WhoseBody001.json",
+    "WhoseBody002.json",
+    "WhoseBody003.json",
+    "WhoseBody004.json",
+    "WhoseBody005.json"
+  ]
+}
