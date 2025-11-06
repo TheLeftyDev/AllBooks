@@ -1,0 +1,11 @@
+{
+  "type": "data-manifest",
+  "base": "The Adventures of Norwood Builder",
+  "totalRecords": 575,
+  "chunkSize": 300,
+  "totalChunks": 2,
+  "files": [
+    "Theadventuresofnorwoodbuilder001.json",
+    "Theadventuresofnorwoodbuilder002.json"
+  ]
+}
