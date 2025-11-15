@@ -1,45 +1,1002 @@
 {
-    "und": {
-      "AZ": "və",
-      "TR": "Ve",
-      "DE": "Und",
-      "EN": "andddddddd"
-    },
-    "eins": {
-      "AZ": "bir",
-      "TR": "bir",
-      "DE": "eins",
-      "EN": "one"
-    },
-    "Das": {
-      "AZ": "ki",
-      "TR": "O",
-      "DE": "Das",
-      "EN": "that"
-    },
-    "sagte": {
-      "AZ": "dedi",
-      "TR": "söz konusu",
-      "DE": "sagte",
-      "EN": "said"
-    },
-    "War": {
-      "AZ": "idi",
-      "TR": "idi",
-      "DE": "War",
-      "EN": "was"
-    },
-    "sein": {
-      "AZ": "onun",
-      "TR": "onun",
-      "DE": "sein",
-      "EN": "his"
-    },
-    "klar": {
-      "AZ": "aydın",
-      "TR": "temizlemek",
-      "DE": "klar",
-      "EN": "clear"
-    }
-
+  "und": {
+    "AZ": "və",
+    "TR": "Ve",
+    "EN": "andddeeeeedddd"
+  },
+  "eins": {
+    "AZ": "bir",
+    "TR": "bir",
+    "EN": "one"
+  },
+  "Das": {
+    "AZ": "ki",
+    "TR": "O",
+    "EN": "that"
+  },
+  "Geschworenen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "jurors / sworn ones"
+  },
+  "Glauben schenken": {
+    "AZ": "",
+    "TR": "",
+    "EN": "believe / give credence to / trust"
+  },
+  "Warst": {
+    "AZ": "",
+    "TR": "",
+    "EN": "were (2nd pers. sing.)"
+  },
+  "kein": {
+    "AZ": "sfdfsf",
+    "TR": "sdfsdfs",
+    "EN": "no / not any / none"
+  },
+  "Vater": {
+    "AZ": "",
+    "TR": "",
+    "EN": "father / dad / sire"
+  },
+  "unterwegs": {
+    "AZ": "",
+    "TR": "",
+    "EN": "on the way / en route / traveling"
+  },
+  "schuldig": {
+    "AZ": "",
+    "TR": "",
+    "EN": "guilty / culpable / indebted"
+  },
+  "halten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "hold / keep / consider"
+  },
+  "sprach": {
+    "AZ": "",
+    "TR": "",
+    "EN": "spoke / said / talked"
+  },
+  "verbittert": {
+    "AZ": "",
+    "TR": "",
+    "EN": "embittered / bitter / resentful"
+  },
+  "Verehrer": {
+    "AZ": "",
+    "TR": "",
+    "EN": "admirer / fan / suitor"
+  },
+  "löste": {
+    "AZ": "",
+    "TR": "",
+    "EN": "dissolved / released / solved"
+  },
+  "Verlobung": {
+    "AZ": "",
+    "TR": "",
+    "EN": "engagement / betrothal / fiancé status"
+  },
+  "grausame": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cruel / gruesome / atrocious"
+  },
+  "Weise": {
+    "AZ": "",
+    "TR": "",
+    "EN": "way / manner / wise"
+  },
+  "Katze": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cat / kitty / feline"
+  },
+  "Voliere": {
+    "AZ": "",
+    "TR": "",
+    "EN": "aviary / birdcage / volary"
+  },
+  "Vögeln": {
+    "AZ": "",
+    "TR": "",
+    "EN": "birds / to bird (rare) / to fuck (vulgar slang)"
+  },
+  "freigelassen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "released / set free / let go"
+  },
+  "Tag": {
+    "AZ": "",
+    "TR": "",
+    "EN": "day / daytime"
+  },
+  "ihrer": {
+    "AZ": "",
+    "TR": "",
+    "EN": "her / their (fem.)"
+  },
+  "Hochzeit": {
+    "AZ": "",
+    "TR": "",
+    "EN": "wedding / marriage / high time"
+  },
+  "Foto": {
+    "AZ": "",
+    "TR": "",
+    "EN": "photo / picture / snapshot"
+  },
+  "Messer": {
+    "AZ": "",
+    "TR": "",
+    "EN": "knife / blade / cutter"
+  },
+  "geschnitten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cut / sliced / carved"
+  },
+  "zerkratzt": {
+    "AZ": "",
+    "TR": "",
+    "EN": "scratched / scuffed / marred"
+  },
+  "verfluchte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cursed / damned / accursed"
+  },
+  "danke": {
+    "AZ": "",
+    "TR": "",
+    "EN": "thanks / thank you"
+  },
+  "bösen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "evil / wicked / angry"
+  },
+  "geheiratet": {
+    "AZ": "",
+    "TR": "",
+    "EN": "married / wed / hitched"
+  },
+  "Weder": {
+    "AZ": "",
+    "TR": "",
+    "EN": "neither / nor"
+  },
+  "Cent": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cent / penny (currency)"
+  },
+  "Junge": {
+    "AZ": "",
+    "TR": "",
+    "EN": "boy / lad / young"
+  },
+  "unschuldig": {
+    "AZ": "",
+    "TR": "",
+    "EN": "innocent / guiltless / naive"
+  },
+  "unsere": {
+    "AZ": "",
+    "TR": "",
+    "EN": "our / ours"
+  },
+  "stützte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "supported / propped / backed"
+  },
+  "weitere": {
+    "AZ": "",
+    "TR": "",
+    "EN": "further / additional / more"
+  },
+  "spielten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "played / acted / gambled"
+  },
+  "beschrieb": {
+    "AZ": "",
+    "TR": "",
+    "EN": "described / depicted / outlined"
+  },
+  "vorfand": {
+    "AZ": "",
+    "TR": "",
+    "EN": "found / discovered / came upon"
+  },
+  "große": {
+    "AZ": "",
+    "TR": "",
+    "EN": "large / big / great"
+  },
+  "moderne": {
+    "AZ": "",
+    "TR": "",
+    "EN": "modern / contemporary / up-to-date"
+  },
+  "Villa": {
+    "AZ": "",
+    "TR": "",
+    "EN": "villa / mansion / country house"
+  },
+  "kleinen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "small / little (pl.)"
+  },
+  "davor": {
+    "AZ": "",
+    "TR": "",
+    "EN": "in front of it / before that"
+  },
+  "Holzlagerplatz": {
+    "AZ": "",
+    "TR": "",
+    "EN": "wood storage yard / lumberyard / timber depot"
+  },
+  "dahinter": {
+    "AZ": "",
+    "TR": "",
+    "EN": "behind it / after that"
+  },
+  "ausbrach": {
+    "AZ": "",
+    "TR": "",
+    "EN": "broke out / erupted / escaped"
+  },
+  "menschliche": {
+    "AZ": "",
+    "TR": "",
+    "EN": "human / humane"
+  },
+  "metallene": {
+    "AZ": "",
+    "TR": "",
+    "EN": "metal / metallic"
+  },
+  "Hosenknöpfe": {
+    "AZ": "",
+    "TR": "",
+    "EN": "trouser buttons / pant buttons"
+  },
+  "Aufschrift": {
+    "AZ": "",
+    "TR": "",
+    "EN": "inscription / label / lettering"
+  },
+  "Hyams": {
+    "AZ": "",
+    "TR": "",
+    "EN": "Hyams (proper name)"
+  },
+  "Schneider": {
+    "AZ": "",
+    "TR": "",
+    "EN": "tailor / cutter / Schneider (surname)"
+  },
+  "Hecke": {
+    "AZ": "",
+    "TR": "",
+    "EN": "hedge / bush / thicket"
+  },
+  "Richtung": {
+    "AZ": "",
+    "TR": "",
+    "EN": "direction / way / towards"
+  },
+  "Holzstapels": {
+    "AZ": "",
+    "TR": "",
+    "EN": "wood pile / timber stack"
+  },
+  "vermutet": {
+    "AZ": "",
+    "TR": "",
+    "EN": "suspected / assumed / presumed"
+  },
+  "Drinnen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "inside / indoors"
+  },
+  "überprüfte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "checked / verified / inspected"
+  },
+  "klein": {
+    "AZ": "",
+    "TR": "",
+    "EN": "small / little / minor"
+  },
+  "frisch": {
+    "AZ": "",
+    "TR": "",
+    "EN": "fresh / new / cool"
+  },
+  "beider": {
+    "AZ": "",
+    "TR": "",
+    "EN": "both (gen.)"
+  },
+  "dritten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "third (dat. pl.)"
+  },
+  "deutete": {
+    "AZ": "",
+    "TR": "",
+    "EN": "pointed / indicated / hinted"
+  },
+  "Schuld": {
+    "AZ": "",
+    "TR": "",
+    "EN": "guilt / fault / debt"
+  },
+  "Meine": {
+    "AZ": "",
+    "TR": "",
+    "EN": "my / mine"
+  },
+  "schwache": {
+    "AZ": "",
+    "TR": "",
+    "EN": "weak / faint / feeble"
+  },
+  "ruhte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "rested / reposed / lay"
+  },
+  "Papieren": {
+    "AZ": "",
+    "TR": "",
+    "EN": "papers / documents"
+  },
+  "offenen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "open (dat. pl.)"
+  },
+  "Tresor": {
+    "AZ": "",
+    "TR": "",
+    "EN": "safe / vault / treasury"
+  },
+  "fehlten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "were missing / lacked / failed"
+  },
+  "Taten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "deeds / acts / actions"
+  },
+  "verwiesen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "referred / expelled / pointed"
+  },
+  "existierten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "existed / were / lived"
+  },
+  "schwächen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "weaken / debilitate / impair"
+  },
+  "stehlen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "steal / rob / pilfer"
+  },
+  "überprüft": {
+    "AZ": "",
+    "TR": "",
+    "EN": "checked / verified / reviewed"
+  },
+  "versuchte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "tried / attempted / endeavored"
+  },
+  "sprechen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "speak / talk / say"
+  },
+  "dunkelhaarige": {
+    "AZ": "",
+    "TR": "",
+    "EN": "dark-haired (fem.)"
+  },
+  "stille": {
+    "AZ": "",
+    "TR": "",
+    "EN": "quiet / silent / still"
+  },
+  "misstrauischen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "suspicious / distrustful / wary"
+  },
+  "hereingelassen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "let in / admitted / allowed entry"
+  },
+  "entfernt": {
+    "AZ": "",
+    "TR": "",
+    "EN": "removed / distant / remote"
+  },
+  "sodass": {
+    "AZ": "",
+    "TR": "",
+    "EN": "so that / such that"
+  },
+  "glaubte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "believed / thought / trusted"
+  },
+  "wachte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "guarded / watched / was awake"
+  },
+  "Feueralarm": {
+    "AZ": "",
+    "TR": "",
+    "EN": "fire alarm / blaze alert"
+  },
+  "ertönte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "sounded / rang out / blared"
+  },
+  "Sicherheit": {
+    "AZ": "",
+    "TR": "",
+    "EN": "safety / security / certainty"
+  },
+  "ermordet": {
+    "AZ": "",
+    "TR": "",
+    "EN": "murdered / assassinated / slain"
+  },
+  "engen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "close / tight / narrow"
+  },
+  "Freunde": {
+    "AZ": "",
+    "TR": "",
+    "EN": "friends / pals"
+  },
+  "Feinde": {
+    "AZ": "",
+    "TR": "",
+    "EN": "enemies / foes"
+  },
+  "Knöpfe": {
+    "AZ": "",
+    "TR": "",
+    "EN": "buttons / knobs"
+  },
+  "Kleidung": {
+    "AZ": "",
+    "TR": "",
+    "EN": "clothing / clothes / attire"
+  },
+  "Holz": {
+    "AZ": "",
+    "TR": "",
+    "EN": "wood / timber / lumber"
+  },
+  "trocken": {
+    "AZ": "",
+    "TR": "",
+    "EN": "dry / arid / sober"
+  },
+  "brannte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "burned / blazed / stung"
+  },
+  "roch": {
+    "AZ": "",
+    "TR": "",
+    "EN": "smelled / stank"
+  },
+  "verbranntes": {
+    "AZ": "",
+    "TR": "",
+    "EN": "burned / scorched / charred"
+  },
+  "Fleisch": {
+    "AZ": "",
+    "TR": "",
+    "EN": "flesh / meat / pulp"
+  },
+  "privaten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "private (dat. pl.)"
+  },
+  "wissen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "know / knowledge"
+  },
+  "seufzte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "sighed / breathed out"
+  },
+  "komplettes": {
+    "AZ": "",
+    "TR": "",
+    "EN": "complete / total / entire"
+  },
+  "Fiasko": {
+    "AZ": "",
+    "TR": "",
+    "EN": "fiasco / flop / disaster"
+  },
+  "falsch": {
+    "AZ": "",
+    "TR": "",
+    "EN": "wrong / false / fake"
+  },
+  "spüre": {
+    "AZ": "",
+    "TR": "",
+    "EN": "feel / sense / detect"
+  },
+  "Diese": {
+    "AZ": "",
+    "TR": "",
+    "EN": "this / these"
+  },
+  "verheimlicht": {
+    "AZ": "",
+    "TR": "",
+    "EN": "concealed / hid / kept secret"
+  },
+  "Erfolgen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "successes / achievements"
+  },
+  "zählen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "count / matter / tell"
+  },
+  "Sicherlich": {
+    "AZ": "",
+    "TR": "",
+    "EN": "certainly / surely / no doubt"
+  },
+  "Aussehen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "appearance / look / exterior"
+  },
+  "Mannes": {
+    "AZ": "",
+    "TR": "",
+    "EN": "man's / husband"
+  },
+  "Vertraue": {
+    "AZ": "",
+    "TR": "",
+    "EN": "trust (1st pers.) / rely"
+  },
+  "Argument": {
+    "AZ": "",
+    "TR": "",
+    "EN": "argument / reasoning / case"
+  },
+  "Erinnert euch": {
+    "AZ": "",
+    "TR": "",
+    "EN": "remember (pl.) / recall"
+  },
+  "Bert Stevens": {
+    "AZ": "",
+    "TR": "",
+    "EN": "Bert Stevens (proper name)"
+  },
+  "Sonntagsschulmörder": {
+    "AZ": "",
+    "TR": "",
+    "EN": "Sunday school murderer"
+  },
+  "Äußerlichkeiten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "appearances / externals / superficialities"
+  },
+  "bedeuten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "mean / signify / matter"
+  },
+  "Sofern": {
+    "AZ": "",
+    "TR": "",
+    "EN": "provided that / as long as / insofar"
+  },
+  "Erklärung": {
+    "AZ": "",
+    "TR": "",
+    "EN": "explanation / statement / declaration"
+  },
+  "Untergang": {
+    "AZ": "",
+    "TR": "",
+    "EN": "downfall / doom / ruin"
+  },
+  "geweiht": {
+    "AZ": "",
+    "TR": "",
+    "EN": "consecrated / dedicated / doomed"
+  },
+  "erdrückender": {
+    "AZ": "",
+    "TR": "",
+    "EN": "overwhelming / crushing / oppressive"
+  },
+  "inne": {
+    "AZ": "",
+    "TR": "",
+    "EN": "within / inside"
+  },
+  "Allerdings": {
+    "AZ": "",
+    "TR": "",
+    "EN": "however / though / indeed"
+  },
+  "merkwürdiges": {
+    "AZ": "",
+    "TR": "",
+    "EN": "strange / odd / curious"
+  },
+  "Detail": {
+    "AZ": "",
+    "TR": "",
+    "EN": "detail / particular"
+  },
+  "niedrig": {
+    "AZ": "",
+    "TR": "",
+    "EN": "low / short / base"
+  },
+  "hohe": {
+    "AZ": "",
+    "TR": "",
+    "EN": "high / tall / lofty"
+  },
+  "Summen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "sums / amounts / totals"
+  },
+  "gewissen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "certain / conscience"
+  },
+  "gezahlt": {
+    "AZ": "",
+    "TR": "",
+    "EN": "paid / settled"
+  },
+  "pensionierter": {
+    "AZ": "",
+    "TR": "",
+    "EN": "retired / pensioned"
+  },
+  "Bauarbeiter": {
+    "AZ": "",
+    "TR": "",
+    "EN": "construction worker / builder"
+  },
+  "schicken": {
+    "AZ": "",
+    "TR": "",
+    "EN": "send / dispatch / suit"
+  },
+  "involviert": {
+    "AZ": "",
+    "TR": "",
+    "EN": "involved / implicated"
+  },
+  "zunächst": {
+    "AZ": "",
+    "TR": "",
+    "EN": "first / initially / at first"
+  },
+  "Bank": {
+    "AZ": "",
+    "TR": "",
+    "EN": "bank / bench"
+  },
+  "nachfragen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "inquire / ask again / follow up"
+  },
+  "Neues": {
+    "AZ": "",
+    "TR": "",
+    "EN": "new (neut.) / news"
+  },
+  "auftaucht": {
+    "AZ": "",
+    "TR": "",
+    "EN": "appears / emerges / surfaces"
+  },
+  "Mandanten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "clients / principals"
+  },
+  "jubeln": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cheer / rejoice / whoop"
+  },
+  "müde": {
+    "AZ": "",
+    "TR": "",
+    "EN": "tired / weary / fatigued"
+  },
+  "geschlafen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "slept / slumbered"
+  },
+  "Zigarettenkippen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cigarette butts / stubs"
+  },
+  "übersät": {
+    "AZ": "",
+    "TR": "",
+    "EN": "strewn / covered / littered"
+  },
+  "Auf": {
+    "AZ": "",
+    "TR": "",
+    "EN": "on / upon / at"
+  },
+  "lag": {
+    "AZ": "",
+    "TR": "",
+    "EN": "lay / was situated"
+  },
+  "WICHTIGE": {
+    "AZ": "",
+    "TR": "",
+    "EN": "important / crucial"
+  },
+  "NEUE": {
+    "AZ": "",
+    "TR": "",
+    "EN": "new"
+  },
+  "BEWEISE": {
+    "AZ": "",
+    "TR": "",
+    "EN": "evidence / proofs"
+  },
+  "LIEGEN": {
+    "AZ": "",
+    "TR": "",
+    "EN": "lie / are located"
+  },
+  "VORHANDEN": {
+    "AZ": "",
+    "TR": "",
+    "EN": "available / present"
+  },
+  "MCFARLANES": {
+    "AZ": "",
+    "TR": "",
+    "EN": "McFarlane's (poss.)"
+  },
+  "SCHULD": {
+    "AZ": "",
+    "TR": "",
+    "EN": "guilt / fault"
+  },
+  "IST": {
+    "AZ": "",
+    "TR": "",
+    "EN": "is"
+  },
+  "DEFINITIV": {
+    "AZ": "",
+    "TR": "",
+    "EN": "definitive / final"
+  },
+  "FESTGESTELLT": {
+    "AZ": "",
+    "TR": "",
+    "EN": "established / determined"
+  },
+  "WIR": {
+    "AZ": "",
+    "TR": "",
+    "EN": "we"
+  },
+  "RATEN": {
+    "AZ": "",
+    "TR": "",
+    "EN": "advise / guess"
+  },
+  "IHNEN": {
+    "AZ": "",
+    "TR": "",
+    "EN": "you (formal pl.)"
+  },
+  "DEN": {
+    "AZ": "",
+    "TR": "",
+    "EN": "the"
+  },
+  "FALL": {
+    "AZ": "",
+    "TR": "",
+    "EN": "case / fall"
+  },
+  "ZURÜCKZUSTELLEN": {
+    "AZ": "",
+    "TR": "",
+    "EN": "postpone / put back"
+  },
+  "LESTRADE": {
+    "AZ": "",
+    "TR": "",
+    "EN": "Lestrade (proper name)"
+  },
+  "klingt": {
+    "AZ": "",
+    "TR": "",
+    "EN": "sounds / rings"
+  },
+  "ernst": {
+    "AZ": "",
+    "TR": "",
+    "EN": "serious / grave / earnest"
+  },
+  "bitter": {
+    "AZ": "",
+    "TR": "",
+    "EN": "bitter / acrid / resentful"
+  },
+  "beansprucht": {
+    "AZ": "",
+    "TR": "",
+    "EN": "claims / demands / stresses"
+  },
+  "Sieg": {
+    "AZ": "",
+    "TR": "",
+    "EN": "victory / win / triumph"
+  },
+  "spielen": {
+    "AZ": "",
+    "TR": "",
+    "EN": "play / act / gamble"
+  },
+  "Karten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "cards / maps"
+  },
+  "brauche": {
+    "AZ": "",
+    "TR": "",
+    "EN": "need / require"
+  },
+  "deine": {
+    "AZ": "",
+    "TR": "",
+    "EN": "your (sing. inf.)"
+  },
+  "Hilfe": {
+    "AZ": "",
+    "TR": "",
+    "EN": "help / aid / assistance"
+  },
+  "Unterstützung": {
+    "AZ": "",
+    "TR": "",
+    "EN": "support / backing / assistance"
+  },
+  "lehnte": {
+    "AZ": "",
+    "TR": "",
+    "EN": "leaned / refused / declined"
+  },
+  "üblich": {
+    "AZ": "",
+    "TR": "",
+    "EN": "usual / customary / common"
+  },
+  "Gedanken": {
+    "AZ": "",
+    "TR": "",
+    "EN": "thoughts / ideas"
+  },
+  "versunken": {
+    "AZ": "",
+    "TR": "",
+    "EN": "sunk / immersed / lost"
+  },
+  "Menschenmenge": {
+    "AZ": "",
+    "TR": "",
+    "EN": "crowd / throng / multitude"
+  },
+  "versammelt": {
+    "AZ": "",
+    "TR": "",
+    "EN": "gathered / assembled"
+  },
+  "neugierig": {
+    "AZ": "",
+    "TR": "",
+    "EN": "curious / nosy / inquisitive"
+  },
+  "Tatort": {
+    "AZ": "",
+    "TR": "",
+    "EN": "crime scene / scene of the crime"
+  },
+  "empfing": {
+    "AZ": "",
+    "TR": "",
+    "EN": "received / welcomed"
+  },
+  "Stolz": {
+    "AZ": "",
+    "TR": "",
+    "EN": "pride / arrogance"
+  },
+  "Tor": {
+    "AZ": "",
+    "TR": "",
+    "EN": "gate / goal / fool"
+  },
+  "selbstgefällig": {
+    "AZ": "",
+    "TR": "",
+    "EN": "smug / complacent / self-satisfied"
+  },
+  "hatten": {
+    "AZ": "",
+    "TR": "",
+    "EN": "had / possessed"
   }
+}
