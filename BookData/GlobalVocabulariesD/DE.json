@@ -1,0 +1,45 @@
+{
+    "Und": {
+      "AZ": "və",
+      "TR": "Ve",
+      "DE": "Und",
+      "EN": "and"
+    },
+    "eins": {
+      "AZ": "bir",
+      "TR": "bir",
+      "DE": "eins",
+      "EN": "one"
+    },
+    "Das": {
+      "AZ": "ki",
+      "TR": "O",
+      "DE": "Das",
+      "EN": "that"
+    },
+    "sagte": {
+      "AZ": "dedi",
+      "TR": "söz konusu",
+      "DE": "sagte",
+      "EN": "said"
+    },
+    "War": {
+      "AZ": "idi",
+      "TR": "idi",
+      "DE": "War",
+      "EN": "was"
+    },
+    "sein": {
+      "AZ": "onun",
+      "TR": "onun",
+      "DE": "sein",
+      "EN": "his"
+    },
+    "klar": {
+      "AZ": "aydın",
+      "TR": "temizlemek",
+      "DE": "klar",
+      "EN": "clear"
+    }
+
+  }
