@@ -2,58 +2,56 @@
   "type": "data-manifest",
   "base": "Theredheadedleague",
   "totalRecords": 552,
-  "chunkSize": 1000,
-  "totalChunks": 1,
   "meta": {
     "files": [
-      "Theredheadedleague1Meta.json"
+      "TheredheadedleagueMeta.json"
     ]
   },
   "languages": {
     "1AZ": [
-      "Theredheadedleague11AZ.json"
+      "Theredheadedleague1AZ.json"
     ],
     "1TR": [
-      "Theredheadedleague11TR.json"
+      "Theredheadedleague1TR.json"
     ],
     "1DE": [
-      "Theredheadedleague11DE.json"
+      "Theredheadedleague1DE.json"
     ],
     "1ES": [
-      "Theredheadedleague11ES.json"
+      "Theredheadedleague1ES.json"
     ],
     "1IT": [
-      "Theredheadedleague11IT.json"
+      "Theredheadedleague1IT.json"
     ],
     "1FR": [
-      "Theredheadedleague11FR.json"
+      "Theredheadedleague1FR.json"
     ],
     "1RU": [
-      "Theredheadedleague11RU.json"
+      "Theredheadedleague1RU.json"
     ],
     "2AZ": [
-      "Theredheadedleague12AZ.json"
+      "Theredheadedleague2AZ.json"
     ],
     "2TR": [
-      "Theredheadedleague12TR.json"
+      "Theredheadedleague2TR.json"
     ],
     "2DE": [
-      "Theredheadedleague12DE.json"
+      "Theredheadedleague2DE.json"
     ],
     "2ES": [
-      "Theredheadedleague12ES.json"
+      "Theredheadedleague2ES.json"
     ],
     "2IT": [
-      "Theredheadedleague12IT.json"
+      "Theredheadedleague2IT.json"
     ],
     "2FR": [
-      "Theredheadedleague12FR.json"
+      "Theredheadedleague2FR.json"
     ],
     "2RU": [
-      "Theredheadedleague12RU.json"
+      "Theredheadedleague2RU.json"
     ],
     "EN": [
-      "Theredheadedleague1EN.json"
+      "TheredheadedleagueEN.json"
     ]
   }
 }
