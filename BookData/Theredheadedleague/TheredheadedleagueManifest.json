@@ -10,26 +10,47 @@
     ]
   },
   "languages": {
-    "AZ": [
-      "Theredheadedleague1AZ.json"
+    "1AZ": [
+      "Theredheadedleague11AZ.json"
     ],
-    "TR": [
-      "Theredheadedleague1TR.json"
+    "1TR": [
+      "Theredheadedleague11TR.json"
     ],
-    "DE": [
-      "Theredheadedleague1DE.json"
+    "1DE": [
+      "Theredheadedleague11DE.json"
     ],
-    "ES": [
-      "Theredheadedleague1ES.json"
+    "1ES": [
+      "Theredheadedleague11ES.json"
     ],
-    "IT": [
-      "Theredheadedleague1IT.json"
+    "1IT": [
+      "Theredheadedleague11IT.json"
     ],
-    "FR": [
-      "Theredheadedleague1FR.json"
+    "1FR": [
+      "Theredheadedleague11FR.json"
     ],
-    "RU": [
-      "Theredheadedleague1RU.json"
+    "1RU": [
+      "Theredheadedleague11RU.json"
+    ],
+    "2AZ": [
+      "Theredheadedleague12AZ.json"
+    ],
+    "2TR": [
+      "Theredheadedleague12TR.json"
+    ],
+    "2DE": [
+      "Theredheadedleague12DE.json"
+    ],
+    "2ES": [
+      "Theredheadedleague12ES.json"
+    ],
+    "2IT": [
+      "Theredheadedleague12IT.json"
+    ],
+    "2FR": [
+      "Theredheadedleague12FR.json"
+    ],
+    "2RU": [
+      "Theredheadedleague12RU.json"
     ],
     "EN": [
       "Theredheadedleague1EN.json"
