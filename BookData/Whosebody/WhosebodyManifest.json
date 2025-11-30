@@ -1,14 +1,57 @@
 {
   "type": "data-manifest",
-  "base": "WhoseBbody",
+  "base": "Whosebody",
   "totalRecords": 4237,
-  "chunkSize": 1000,
-  "totalChunks": 5,
-  "files": [
-    "Whosebody001.json",
-    "Whosebody002.json",
-    "Whosebody003.json",
-    "Whosebody004.json",
-    "Whosebody005.json"
-  ]
+  "meta": {
+    "files": [
+      "WhosebodyMeta.json"
+    ]
+  },
+  "languages": {
+    "1AZ": [
+      "Whosebody1AZ.json"
+    ],
+    "1TR": [
+      "Whosebody1TR.json"
+    ],
+    "1DE": [
+      "Whosebody1DE.json"
+    ],
+    "1ES": [
+      "Whosebody1ES.json"
+    ],
+    "1IT": [
+      "Whosebody1IT.json"
+    ],
+    "1FR": [
+      "Whosebody1FR.json"
+    ],
+    "1RU": [
+      "Whosebody1RU.json"
+    ],
+    "2AZ": [
+      "Whosebody2AZ.json"
+    ],
+    "2TR": [
+      "Whosebody2TR.json"
+    ],
+    "2DE": [
+      "Whosebody2DE.json"
+    ],
+    "2ES": [
+      "Whosebody2ES.json"
+    ],
+    "2IT": [
+      "Whosebody2IT.json"
+    ],
+    "2FR": [
+      "Whosebody2FR.json"
+    ],
+    "2RU": [
+      "Whosebody2RU.json"
+    ],
+    "EN": [
+      "WhosebodyEN.json"
+    ]
+  }
 }
