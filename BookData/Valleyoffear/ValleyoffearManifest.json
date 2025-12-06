@@ -1,0 +1,154 @@
+{
+  "type": "data-manifest",
+  "base": "Valleyoffear",
+  "totalRecords": 6913,
+  "chunkSize": 1000,
+  "meta": {
+    "files": [
+      "ValleyoffearMeta_1.json",
+      "ValleyoffearMeta_2.json",
+      "ValleyoffearMeta_3.json",
+      "ValleyoffearMeta_4.json",
+      "ValleyoffearMeta_5.json",
+      "ValleyoffearMeta_6.json",
+      "ValleyoffearMeta_7.json"
+    ]
+  },
+  "languages": {
+    "1AZ": [
+      "Valleyoffear1AZ_1.json",
+      "Valleyoffear1AZ_2.json",
+      "Valleyoffear1AZ_3.json",
+      "Valleyoffear1AZ_4.json",
+      "Valleyoffear1AZ_5.json",
+      "Valleyoffear1AZ_6.json",
+      "Valleyoffear1AZ_7.json"
+    ],
+    "1TR": [
+      "Valleyoffear1TR_1.json",
+      "Valleyoffear1TR_2.json",
+      "Valleyoffear1TR_3.json",
+      "Valleyoffear1TR_4.json",
+      "Valleyoffear1TR_5.json",
+      "Valleyoffear1TR_6.json",
+      "Valleyoffear1TR_7.json"
+    ],
+    "1DE": [
+      "Valleyoffear1DE_1.json",
+      "Valleyoffear1DE_2.json",
+      "Valleyoffear1DE_3.json",
+      "Valleyoffear1DE_4.json",
+      "Valleyoffear1DE_5.json",
+      "Valleyoffear1DE_6.json",
+      "Valleyoffear1DE_7.json"
+    ],
+    "1ES": [
+      "Valleyoffear1ES_1.json",
+      "Valleyoffear1ES_2.json",
+      "Valleyoffear1ES_3.json",
+      "Valleyoffear1ES_4.json",
+      "Valleyoffear1ES_5.json",
+      "Valleyoffear1ES_6.json",
+      "Valleyoffear1ES_7.json"
+    ],
+    "1IT": [
+      "Valleyoffear1IT_1.json",
+      "Valleyoffear1IT_2.json",
+      "Valleyoffear1IT_3.json",
+      "Valleyoffear1IT_4.json",
+      "Valleyoffear1IT_5.json",
+      "Valleyoffear1IT_6.json",
+      "Valleyoffear1IT_7.json"
+    ],
+    "1FR": [
+      "Valleyoffear1FR_1.json",
+      "Valleyoffear1FR_2.json",
+      "Valleyoffear1FR_3.json",
+      "Valleyoffear1FR_4.json",
+      "Valleyoffear1FR_5.json",
+      "Valleyoffear1FR_6.json",
+      "Valleyoffear1FR_7.json"
+    ],
+    "1RU": [
+      "Valleyoffear1RU_1.json",
+      "Valleyoffear1RU_2.json",
+      "Valleyoffear1RU_3.json",
+      "Valleyoffear1RU_4.json",
+      "Valleyoffear1RU_5.json",
+      "Valleyoffear1RU_6.json",
+      "Valleyoffear1RU_7.json"
+    ],
+    "2AZ": [
+      "Valleyoffear2AZ_1.json",
+      "Valleyoffear2AZ_2.json",
+      "Valleyoffear2AZ_3.json",
+      "Valleyoffear2AZ_4.json",
+      "Valleyoffear2AZ_5.json",
+      "Valleyoffear2AZ_6.json",
+      "Valleyoffear2AZ_7.json"
+    ],
+    "2TR": [
+      "Valleyoffear2TR_1.json",
+      "Valleyoffear2TR_2.json",
+      "Valleyoffear2TR_3.json",
+      "Valleyoffear2TR_4.json",
+      "Valleyoffear2TR_5.json",
+      "Valleyoffear2TR_6.json",
+      "Valleyoffear2TR_7.json"
+    ],
+    "2DE": [
+      "Valleyoffear2DE_1.json",
+      "Valleyoffear2DE_2.json",
+      "Valleyoffear2DE_3.json",
+      "Valleyoffear2DE_4.json",
+      "Valleyoffear2DE_5.json",
+      "Valleyoffear2DE_6.json",
+      "Valleyoffear2DE_7.json"
+    ],
+    "2ES": [
+      "Valleyoffear2ES_1.json",
+      "Valleyoffear2ES_2.json",
+      "Valleyoffear2ES_3.json",
+      "Valleyoffear2ES_4.json",
+      "Valleyoffear2ES_5.json",
+      "Valleyoffear2ES_6.json",
+      "Valleyoffear2ES_7.json"
+    ],
+    "2IT": [
+      "Valleyoffear2IT_1.json",
+      "Valleyoffear2IT_2.json",
+      "Valleyoffear2IT_3.json",
+      "Valleyoffear2IT_4.json",
+      "Valleyoffear2IT_5.json",
+      "Valleyoffear2IT_6.json",
+      "Valleyoffear2IT_7.json"
+    ],
+    "2FR": [
+      "Valleyoffear2FR_1.json",
+      "Valleyoffear2FR_2.json",
+      "Valleyoffear2FR_3.json",
+      "Valleyoffear2FR_4.json",
+      "Valleyoffear2FR_5.json",
+      "Valleyoffear2FR_6.json",
+      "Valleyoffear2FR_7.json"
+    ],
+    "2RU": [
+      "Valleyoffear2RU_1.json",
+      "Valleyoffear2RU_2.json",
+      "Valleyoffear2RU_3.json",
+      "Valleyoffear2RU_4.json",
+      "Valleyoffear2RU_5.json",
+      "Valleyoffear2RU_6.json",
+      "Valleyoffear2RU_7.json"
+    ],
+    "EN": [
+      "ValleyoffearEN_1.json",
+      "ValleyoffearEN_2.json",
+      "ValleyoffearEN_3.json",
+      "ValleyoffearEN_4.json",
+      "ValleyoffearEN_5.json",
+      "ValleyoffearEN_6.json",
+      "ValleyoffearEN_7.json"
+    ]
+  }
+}
