@@ -1,0 +1,74 @@
+{
+  "type": "data-manifest",
+  "base": "Timemachine",
+  "totalRecords": 1925,
+  "chunkSize": 1000,
+  "meta": {
+    "files": [
+      "TimemachineMeta_1.json",
+      "TimemachineMeta_2.json"
+    ]
+  },
+  "languages": {
+    "1AZ": [
+      "Timemachine1AZ_1.json",
+      "Timemachine1AZ_2.json"
+    ],
+    "1TR": [
+      "Timemachine1TR_1.json",
+      "Timemachine1TR_2.json"
+    ],
+    "1DE": [
+      "Timemachine1DE_1.json",
+      "Timemachine1DE_2.json"
+    ],
+    "1ES": [
+      "Timemachine1ES_1.json",
+      "Timemachine1ES_2.json"
+    ],
+    "1IT": [
+      "Timemachine1IT_1.json",
+      "Timemachine1IT_2.json"
+    ],
+    "1FR": [
+      "Timemachine1FR_1.json",
+      "Timemachine1FR_2.json"
+    ],
+    "1RU": [
+      "Timemachine1RU_1.json",
+      "Timemachine1RU_2.json"
+    ],
+    "2AZ": [
+      "Timemachine2AZ_1.json",
+      "Timemachine2AZ_2.json"
+    ],
+    "2TR": [
+      "Timemachine2TR_1.json",
+      "Timemachine2TR_2.json"
+    ],
+    "2DE": [
+      "Timemachine2DE_1.json",
+      "Timemachine2DE_2.json"
+    ],
+    "2ES": [
+      "Timemachine2ES_1.json",
+      "Timemachine2ES_2.json"
+    ],
+    "2IT": [
+      "Timemachine2IT_1.json",
+      "Timemachine2IT_2.json"
+    ],
+    "2FR": [
+      "Timemachine2FR_1.json",
+      "Timemachine2FR_2.json"
+    ],
+    "2RU": [
+      "Timemachine2RU_1.json",
+      "Timemachine2RU_2.json"
+    ],
+    "EN": [
+      "TimemachineEN_1.json",
+      "TimemachineEN_2.json"
+    ]
+  }
+}
