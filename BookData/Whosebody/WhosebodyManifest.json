@@ -2,56 +2,121 @@
   "type": "data-manifest",
   "base": "Whosebody",
   "totalRecords": 4237,
+  "chunkSize": 1000,
   "meta": {
     "files": [
-      "WhosebodyMeta.json"
+      "WhosebodyMeta_1.json",
+      "WhosebodyMeta_2.json",
+      "WhosebodyMeta_3.json",
+      "WhosebodyMeta_4.json",
+      "WhosebodyMeta_5.json"
     ]
   },
   "languages": {
     "1AZ": [
-      "Whosebody1AZ.json"
+      "Whosebody1AZ_1.json",
+      "Whosebody1AZ_2.json",
+      "Whosebody1AZ_3.json",
+      "Whosebody1AZ_4.json",
+      "Whosebody1AZ_5.json"
     ],
     "1TR": [
-      "Whosebody1TR.json"
+      "Whosebody1TR_1.json",
+      "Whosebody1TR_2.json",
+      "Whosebody1TR_3.json",
+      "Whosebody1TR_4.json",
+      "Whosebody1TR_5.json"
     ],
     "1DE": [
-      "Whosebody1DE.json"
+      "Whosebody1DE_1.json",
+      "Whosebody1DE_2.json",
+      "Whosebody1DE_3.json",
+      "Whosebody1DE_4.json",
+      "Whosebody1DE_5.json"
     ],
     "1ES": [
-      "Whosebody1ES.json"
+      "Whosebody1ES_1.json",
+      "Whosebody1ES_2.json",
+      "Whosebody1ES_3.json",
+      "Whosebody1ES_4.json",
+      "Whosebody1ES_5.json"
     ],
     "1IT": [
-      "Whosebody1IT.json"
+      "Whosebody1IT_1.json",
+      "Whosebody1IT_2.json",
+      "Whosebody1IT_3.json",
+      "Whosebody1IT_4.json",
+      "Whosebody1IT_5.json"
     ],
     "1FR": [
-      "Whosebody1FR.json"
+      "Whosebody1FR_1.json",
+      "Whosebody1FR_2.json",
+      "Whosebody1FR_3.json",
+      "Whosebody1FR_4.json",
+      "Whosebody1FR_5.json"
     ],
     "1RU": [
-      "Whosebody1RU.json"
+      "Whosebody1RU_1.json",
+      "Whosebody1RU_2.json",
+      "Whosebody1RU_3.json",
+      "Whosebody1RU_4.json",
+      "Whosebody1RU_5.json"
     ],
     "2AZ": [
-      "Whosebody2AZ.json"
+      "Whosebody2AZ_1.json",
+      "Whosebody2AZ_2.json",
+      "Whosebody2AZ_3.json",
+      "Whosebody2AZ_4.json",
+      "Whosebody2AZ_5.json"
     ],
     "2TR": [
-      "Whosebody2TR.json"
+      "Whosebody2TR_1.json",
+      "Whosebody2TR_2.json",
+      "Whosebody2TR_3.json",
+      "Whosebody2TR_4.json",
+      "Whosebody2TR_5.json"
     ],
     "2DE": [
-      "Whosebody2DE.json"
+      "Whosebody2DE_1.json",
+      "Whosebody2DE_2.json",
+      "Whosebody2DE_3.json",
+      "Whosebody2DE_4.json",
+      "Whosebody2DE_5.json"
     ],
     "2ES": [
-      "Whosebody2ES.json"
+      "Whosebody2ES_1.json",
+      "Whosebody2ES_2.json",
+      "Whosebody2ES_3.json",
+      "Whosebody2ES_4.json",
+      "Whosebody2ES_5.json"
     ],
     "2IT": [
-      "Whosebody2IT.json"
+      "Whosebody2IT_1.json",
+      "Whosebody2IT_2.json",
+      "Whosebody2IT_3.json",
+      "Whosebody2IT_4.json",
+      "Whosebody2IT_5.json"
     ],
     "2FR": [
-      "Whosebody2FR.json"
+      "Whosebody2FR_1.json",
+      "Whosebody2FR_2.json",
+      "Whosebody2FR_3.json",
+      "Whosebody2FR_4.json",
+      "Whosebody2FR_5.json"
     ],
     "2RU": [
-      "Whosebody2RU.json"
+      "Whosebody2RU_1.json",
+      "Whosebody2RU_2.json",
+      "Whosebody2RU_3.json",
+      "Whosebody2RU_4.json",
+      "Whosebody2RU_5.json"
     ],
     "EN": [
-      "WhosebodyEN.json"
+      "WhosebodyEN_1.json",
+      "WhosebodyEN_2.json",
+      "WhosebodyEN_3.json",
+      "WhosebodyEN_4.json",
+      "WhosebodyEN_5.json"
     ]
   }
 }

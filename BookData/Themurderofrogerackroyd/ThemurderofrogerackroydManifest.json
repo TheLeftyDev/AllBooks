@@ -1,0 +1,154 @@
+{
+  "type": "data-manifest",
+  "base": "Themurderofrogerackroyd",
+  "totalRecords": 6913,
+  "chunkSize": 1000,
+  "meta": {
+    "files": [
+      "ThemurderofrogerackroydMeta_1.json",
+      "ThemurderofrogerackroydMeta_2.json",
+      "ThemurderofrogerackroydMeta_3.json",
+      "ThemurderofrogerackroydMeta_4.json",
+      "ThemurderofrogerackroydMeta_5.json",
+      "ThemurderofrogerackroydMeta_6.json",
+      "ThemurderofrogerackroydMeta_7.json"
+    ]
+  },
+  "languages": {
+    "1AZ": [
+      "Themurderofrogerackroyd1AZ_1.json",
+      "Themurderofrogerackroyd1AZ_2.json",
+      "Themurderofrogerackroyd1AZ_3.json",
+      "Themurderofrogerackroyd1AZ_4.json",
+      "Themurderofrogerackroyd1AZ_5.json",
+      "Themurderofrogerackroyd1AZ_6.json",
+      "Themurderofrogerackroyd1AZ_7.json"
+    ],
+    "1TR": [
+      "Themurderofrogerackroyd1TR_1.json",
+      "Themurderofrogerackroyd1TR_2.json",
+      "Themurderofrogerackroyd1TR_3.json",
+      "Themurderofrogerackroyd1TR_4.json",
+      "Themurderofrogerackroyd1TR_5.json",
+      "Themurderofrogerackroyd1TR_6.json",
+      "Themurderofrogerackroyd1TR_7.json"
+    ],
+    "1DE": [
+      "Themurderofrogerackroyd1DE_1.json",
+      "Themurderofrogerackroyd1DE_2.json",
+      "Themurderofrogerackroyd1DE_3.json",
+      "Themurderofrogerackroyd1DE_4.json",
+      "Themurderofrogerackroyd1DE_5.json",
+      "Themurderofrogerackroyd1DE_6.json",
+      "Themurderofrogerackroyd1DE_7.json"
+    ],
+    "1ES": [
+      "Themurderofrogerackroyd1ES_1.json",
+      "Themurderofrogerackroyd1ES_2.json",
+      "Themurderofrogerackroyd1ES_3.json",
+      "Themurderofrogerackroyd1ES_4.json",
+      "Themurderofrogerackroyd1ES_5.json",
+      "Themurderofrogerackroyd1ES_6.json",
+      "Themurderofrogerackroyd1ES_7.json"
+    ],
+    "1IT": [
+      "Themurderofrogerackroyd1IT_1.json",
+      "Themurderofrogerackroyd1IT_2.json",
+      "Themurderofrogerackroyd1IT_3.json",
+      "Themurderofrogerackroyd1IT_4.json",
+      "Themurderofrogerackroyd1IT_5.json",
+      "Themurderofrogerackroyd1IT_6.json",
+      "Themurderofrogerackroyd1IT_7.json"
+    ],
+    "1FR": [
+      "Themurderofrogerackroyd1FR_1.json",
+      "Themurderofrogerackroyd1FR_2.json",
+      "Themurderofrogerackroyd1FR_3.json",
+      "Themurderofrogerackroyd1FR_4.json",
+      "Themurderofrogerackroyd1FR_5.json",
+      "Themurderofrogerackroyd1FR_6.json",
+      "Themurderofrogerackroyd1FR_7.json"
+    ],
+    "1RU": [
+      "Themurderofrogerackroyd1RU_1.json",
+      "Themurderofrogerackroyd1RU_2.json",
+      "Themurderofrogerackroyd1RU_3.json",
+      "Themurderofrogerackroyd1RU_4.json",
+      "Themurderofrogerackroyd1RU_5.json",
+      "Themurderofrogerackroyd1RU_6.json",
+      "Themurderofrogerackroyd1RU_7.json"
+    ],
+    "2AZ": [
+      "Themurderofrogerackroyd2AZ_1.json",
+      "Themurderofrogerackroyd2AZ_2.json",
+      "Themurderofrogerackroyd2AZ_3.json",
+      "Themurderofrogerackroyd2AZ_4.json",
+      "Themurderofrogerackroyd2AZ_5.json",
+      "Themurderofrogerackroyd2AZ_6.json",
+      "Themurderofrogerackroyd2AZ_7.json"
+    ],
+    "2TR": [
+      "Themurderofrogerackroyd2TR_1.json",
+      "Themurderofrogerackroyd2TR_2.json",
+      "Themurderofrogerackroyd2TR_3.json",
+      "Themurderofrogerackroyd2TR_4.json",
+      "Themurderofrogerackroyd2TR_5.json",
+      "Themurderofrogerackroyd2TR_6.json",
+      "Themurderofrogerackroyd2TR_7.json"
+    ],
+    "2DE": [
+      "Themurderofrogerackroyd2DE_1.json",
+      "Themurderofrogerackroyd2DE_2.json",
+      "Themurderofrogerackroyd2DE_3.json",
+      "Themurderofrogerackroyd2DE_4.json",
+      "Themurderofrogerackroyd2DE_5.json",
+      "Themurderofrogerackroyd2DE_6.json",
+      "Themurderofrogerackroyd2DE_7.json"
+    ],
+    "2ES": [
+      "Themurderofrogerackroyd2ES_1.json",
+      "Themurderofrogerackroyd2ES_2.json",
+      "Themurderofrogerackroyd2ES_3.json",
+      "Themurderofrogerackroyd2ES_4.json",
+      "Themurderofrogerackroyd2ES_5.json",
+      "Themurderofrogerackroyd2ES_6.json",
+      "Themurderofrogerackroyd2ES_7.json"
+    ],
+    "2IT": [
+      "Themurderofrogerackroyd2IT_1.json",
+      "Themurderofrogerackroyd2IT_2.json",
+      "Themurderofrogerackroyd2IT_3.json",
+      "Themurderofrogerackroyd2IT_4.json",
+      "Themurderofrogerackroyd2IT_5.json",
+      "Themurderofrogerackroyd2IT_6.json",
+      "Themurderofrogerackroyd2IT_7.json"
+    ],
+    "2FR": [
+      "Themurderofrogerackroyd2FR_1.json",
+      "Themurderofrogerackroyd2FR_2.json",
+      "Themurderofrogerackroyd2FR_3.json",
+      "Themurderofrogerackroyd2FR_4.json",
+      "Themurderofrogerackroyd2FR_5.json",
+      "Themurderofrogerackroyd2FR_6.json",
+      "Themurderofrogerackroyd2FR_7.json"
+    ],
+    "2RU": [
+      "Themurderofrogerackroyd2RU_1.json",
+      "Themurderofrogerackroyd2RU_2.json",
+      "Themurderofrogerackroyd2RU_3.json",
+      "Themurderofrogerackroyd2RU_4.json",
+      "Themurderofrogerackroyd2RU_5.json",
+      "Themurderofrogerackroyd2RU_6.json",
+      "Themurderofrogerackroyd2RU_7.json"
+    ],
+    "EN": [
+      "ThemurderofrogerackroydEN_1.json",
+      "ThemurderofrogerackroydEN_2.json",
+      "ThemurderofrogerackroydEN_3.json",
+      "ThemurderofrogerackroydEN_4.json",
+      "ThemurderofrogerackroydEN_5.json",
+      "ThemurderofrogerackroydEN_6.json",
+      "ThemurderofrogerackroydEN_7.json"
+    ]
+  }
+}
